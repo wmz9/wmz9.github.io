@@ -3,7 +3,7 @@
 ==Mingze Wang
 
 ~~~
-{}{img_left}{mingzewang.jpeg}{Mingze Wang}{171 px}{200 px}{http://people.kth.se/~euhanna/}
+{}{img_left}{mingzewang.jpeg}{Mingze Wang}{171 px}{200 px}
 Mingze Wang (王铭泽) \n
 Ph.D. Student
 
@@ -14,6 +14,7 @@ Ph.D. Student
 Beijing, China, 100084\n
 Email: mingzewang \[at\] stu \[dot\] pku \[dot\] edu \[dot\] cn\n
 
+\[Google Scholar\] ~~~~~ \[CV\]\n
 ~~~
 
 == About me
@@ -22,14 +23,19 @@ I am a first-year Ph.D student in Computational Mathematics, [https://www.math.p
 
 == Research Interests
 I am broadly interested in theory, algorithm and application of machine learning. I am also interested in non-convex optimization and image processing. Specifically, my research topics are
-- Deep learning theory: optimization, generalization, approximation and implicit bias
+- Deep learning theory: approximation, optimization, generalization and implicit bias
 - Non-convex optimization
 
 
-== Recent Publications
-- \n
-
-== Preprints
-- \n
+== Publications and Preprints
+- [https://arxiv.org/abs/2206.02139 Early Stage Convergence and Global Convergence of Training Mildly Parameterized Neural Networks] \n
+*Mingze Wang*, Chao Ma\n
+Arxiv preprint, 2022.
+- [https://arxiv.org/abs/2206.03299 Generalization Error Bounds for Deep Neural Networks Trained by SGD] \n
+*Mingze Wang*, Chao Ma\n
+Arxiv preprint, 2022.
+- When does SGD favor flat minima? A quantitative characterization via linear stability \n
+Lei Wu, *Mingze Wang*, Weijie J. Su\n
+Preprint, 2022.
 
 == 
