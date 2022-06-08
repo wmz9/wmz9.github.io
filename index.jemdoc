@@ -22,6 +22,8 @@ I am a first-year Ph.D student in Computational Mathematics, [https://www.math.p
 
 I am also an algorithm intern (2021-Present) in [https://moqi.com.cn/ Moqi], Beijing, China.
 
+Please feel free to drop me an email if you are interested in collaborating with me.
+
 == Research Interests
 I am broadly interested in theory, algorithm and application of machine learning. I am also interested in non-convex optimization and image processing. Specifically, my research topics are
 - Deep learning theory: approximation, optimization, generalization and implicit bias
@@ -29,13 +31,13 @@ I am broadly interested in theory, algorithm and application of machine learning
 
 
 == Publications and Preprints
-- [https://arxiv.org/abs/2206.02139 Early Stage Convergence and Global Convergence of Training Mildly Parameterized Neural Networks] \n
+- [https://arxiv.org/abs/2206.02139 *Early Stage Convergence and Global Convergence of Training Mildly Parameterized Neural Networks*] \n
 *Mingze Wang*, Chao Ma\n
 Arxiv preprint, 2022.
-- [https://arxiv.org/abs/2206.03299 Generalization Error Bounds for Deep Neural Networks Trained by SGD] \n
+- [https://arxiv.org/abs/2206.03299 *Generalization Error Bounds for Deep Neural Networks Trained by SGD*] \n
 *Mingze Wang*, Chao Ma\n
 Arxiv preprint, 2022.
-- When does SGD favor flat minima? A quantitative characterization via linear stability \n
+- *When does SGD favor flat minima? A quantitative characterization via linear stability* \n
 Lei Wu, *Mingze Wang*, Weijie J. Su\n
 Preprint, 2022.
 
