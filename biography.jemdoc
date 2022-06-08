@@ -1,0 +1,21 @@
+# jemdoc: menu{MENU}{biography.html}, nofooter
+# jemdoc: addcss{jemdoc.css}, notime
+== Biography
+
+== Education
+
+- Ph.D student (2021.9-Present).
+  -- Advisor: [https://web.math.princeton.edu/~weinan/ Prof. Weinan E];
+  -- Major: Computational Mathematics;
+  -- [https://www.math.pku.edu.cn/ School of Mathematical Sciences], [https://english.pku.edu.cn/ Peking University], Beijing, China.
+  
+- B.S. (2017.9- 2021.6).
+  -- Major: Pure and Applied Mathematics;
+  -- Ranking: 1/111 for the first three years during my undergraduate study;
+  -- [http://www.math.zju.edu.cn/mathen/ School of Mathematical Sciences], [https://www.zju.edu.cn/ Zhejiang University], Hangzhou, China.
+  
+== Experience
+
+- Algorithm Intern (2021.9-Present).
+  -- [https://moqi.com.cn/ Moqi], Beijing, China;
+  -- Work on privacy protection for biometric technology.
