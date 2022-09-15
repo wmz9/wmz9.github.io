@@ -9,16 +9,17 @@ I am broadly interested in theory, algorithm and application of machine learning
 - Non-convex optimization
 
 
-== Publications and Preprints
-
+== Publications
 - [https://arxiv.org/abs/2206.02139 *Early Stage Convergence and Global Convergence of Training Mildly Parameterized Neural Networks*] \n
 *Mingze Wang*, Chao Ma\n
-ArXiv preprint, 2022.
-- [https://arxiv.org/abs/2206.03299 *Generalization Error Bounds for Deep Neural Networks Trained by SGD*] \n
-*Mingze Wang*, Chao Ma\n
-ArXiv preprint, 2022.
+Thirty-sixth Conference on Neural Information Processing Systems (*NeurIPS 2022*).
 - [https://arxiv.org/abs/2207.02628 *When does SGD favor flat minima? A quantitative characterization via linear stability*] \n
 Lei Wu, *Mingze Wang*, Weijie J. Su\n
+Thirty-sixth Conference on Neural Information Processing Systems (*NeurIPS 2022*).
+
+== Preprints
+- [https://arxiv.org/abs/2206.03299 *Generalization Error Bounds for Deep Neural Networks Trained by SGD*] \n
+*Mingze Wang*, Chao Ma\n
 ArXiv preprint, 2022.
 
 == Co-authors

@@ -18,7 +18,7 @@ Email: mingzewang \[at\] stu \[dot\] pku \[dot\] edu \[dot\] cn\n
 ~~~
 
 == About me
-I am a first-year Ph.D student in Computational Mathematics, [https://www.math.pku.edu.cn/ School of Mathematical Sciences], [https://english.pku.edu.cn/ Peking University] (2021-Present). I am very fortunate to be advised by [https://web.math.princeton.edu/~weinan/ Prof. Weinan E]. Prior to that, I received my B.S. degree in Pure and Applied Mathematics (ranking 1/111 for the first three years during my undergraduate study) from [http://www.math.zju.edu.cn/mathen/ School of Mathematical Sciences], [https://www.zju.edu.cn/ Zhejiang University], Hangzhou, China in 2021.
+I am a second-year Ph.D student in Computational Mathematics, [https://www.math.pku.edu.cn/ School of Mathematical Sciences], [https://english.pku.edu.cn/ Peking University] (2021-Present). I am very fortunate to be advised by [https://web.math.princeton.edu/~weinan/ Prof. Weinan E]. Prior to that, I received my B.S. degree in Pure and Applied Mathematics (ranking 1/111 for the first three years during my undergraduate study) from [http://www.math.zju.edu.cn/mathen/ School of Mathematical Sciences], [https://www.zju.edu.cn/ Zhejiang University], Hangzhou, China in 2021.
 
 ~~~
 Please feel free to drop me an email if you are interested in collaborating with me.
@@ -30,15 +30,16 @@ I am broadly interested in theory, algorithm and application of machine learning
 - Non-convex optimization
 
 
-== Publications and Preprints
+== Publications
 - [https://arxiv.org/abs/2206.02139 *Early Stage Convergence and Global Convergence of Training Mildly Parameterized Neural Networks*] \n
 *Mingze Wang*, Chao Ma\n
-ArXiv preprint, 2022.
+Thirty-sixth Conference on Neural Information Processing Systems (*NeurIPS 2022*).
+- [https://arxiv.org/abs/2207.02628 *When does SGD favor flat minima? A quantitative characterization via linear stability*] \n
+Lei Wu, *Mingze Wang*, Weijie J. Su\n
+Thirty-sixth Conference on Neural Information Processing Systems (*NeurIPS 2022*).
+
+== Preprints
 - [https://arxiv.org/abs/2206.03299 *Generalization Error Bounds for Deep Neural Networks Trained by SGD*] \n
 *Mingze Wang*, Chao Ma\n
 ArXiv preprint, 2022.
-- [https://arxiv.org/abs/2207.02628 *When does SGD favor flat minima? A quantitative characterization via linear stability*] \n
-Lei Wu, *Mingze Wang*, Weijie J. Su\n
-ArXiv preprint, 2022.
-
 == 
