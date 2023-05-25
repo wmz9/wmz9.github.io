@@ -27,15 +27,16 @@ Please feel free to drop me an email if you are interested in collaborating with
 ~~~
 == News
 - \[2022.11\] I have passed the Ph.D. qualifying exam!
-- \[2022.10\] I won the 2021-2022 PKU ``Academic Innovation'' Award (top 1%)!
+- \[2022.10\] I won the 2021-2022 PKU Academic Innovation Award (top 1%)!
 - \[2022.09\] Two papers accepted to NeurIPS 2022!
 ~~~
 
 
 == Research Interests
 I am broadly interested in theory, algorithm and application of machine learning. I am also interested in non-convex optimization and image processing. Specifically, my recent research topics are
-- Deep learning theory: optimization, generalization, implicit bias and approximation
-- Non-convex optimization
+- *Deep learning theory*: optimization, generalization, implicit bias and approximation
+- *Foundation models*: theoy and algorithm.
+- *Non-convex optimization*: theoy and algorithm.
 
 
 == Recent Publications
@@ -49,13 +50,13 @@ Thirty-sixth Conference on Neural Information Processing Systems (*NeurIPS 2022*
 == Recent Preprints
 - [https://arxiv.org/abs/2305.12467 *Understanding Multi-phase Optimization Dynamics and Rich Nonlinear Behaviors of ReLU Networks*] \n
 *Mingze Wang*, Chao Ma\n
-ArXiv preprint, May 2023.
+arXiv preprint, May 2023.
 - *The Noise Geometry of Stochastic Gradient Descent: A Quantitative and Analytical Characterization* \n
 *Mingze Wang*, Lei Wu\n
-Under review, May 2023.
+under review, May 2023.
 - [https://arxiv.org/abs/2206.03299 *Generalization Error Bounds for Deep Neural Networks Trained by SGD*] \n
 *Mingze Wang*, Chao Ma\n
-ArXiv preprint, June 2022.
+arXiv preprint, June 2022.
 
 
 == 
