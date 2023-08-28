@@ -5,9 +5,11 @@
 
 == Research Interests
 I am broadly interested in theory, algorithm and application of machine learning. I am also interested in non-convex optimization and image processing. Specifically, my recent research topics are
-- *Deep learning theory*: optimization, generalization, implicit bias and approximation
-- *Foundation models*: theory and algorithm.
-- *Non-convex optimization*: theory and algorithm.
+- *Deep Learning Theory*: optimization, generalization, implicit bias and approximation.
+- *Foundation Model and Transformer*: theory and algorithm.
+- *Non-convex Optimization*: theory and algorithm.
+- *AI for Compositional Optimization*: theory and algorithm.
+- *CV and NLP*: algorithm and application.
 
 
 == Publications
