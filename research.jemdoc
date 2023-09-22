@@ -13,6 +13,9 @@ I am broadly interested in theory, algorithm and application of machine learning
 
 
 == Publications
+- [https://arxiv.org/abs/2305.12467 *Understanding Multi-phase Optimization Dynamics and Rich Nonlinear Behaviors of ReLU Networks*] \n
+*Mingze Wang*, Chao Ma\n
+Thirty-seeventh Conference on Neural Information Processing Systems (*NeurIPS 2023*) (+spotlight+).
 - [https://arxiv.org/abs/2206.02139 *Early Stage Convergence and Global Convergence of Training Mildly Parameterized Neural Networks*] \n
 *Mingze Wang*, Chao Ma\n
 Thirty-sixth Conference on Neural Information Processing Systems (*NeurIPS 2022*).
@@ -21,9 +24,6 @@ Lei Wu, *Mingze Wang*, Weijie J. Su\n
 Thirty-sixth Conference on Neural Information Processing Systems (*NeurIPS 2022*).
 
 == Preprints
-- [https://arxiv.org/abs/2305.12467 *Understanding Multi-phase Optimization Dynamics and Rich Nonlinear Behaviors of ReLU Networks*] \n
-*Mingze Wang*, Chao Ma\n
-Under review, May 2023.
 - *The Noise Geometry of Stochastic Gradient Descent: A Quantitative and Analytical Characterization* \n
 *Mingze Wang*, Lei Wu\n
 Under review, May 2023.
