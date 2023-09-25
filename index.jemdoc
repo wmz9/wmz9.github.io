@@ -26,7 +26,7 @@ Please feel free to drop me an email if you are interested in collaborating with
 
 ~~~
 == News
-- \[2023.09\] One paper accepted to NeurIPS 2023 (Spotlight)!
+- \[2023.09\] One paper accepted to NeurIPS 2023 as a {{<font color=red>}}Spotlight{{</font>}} (Top 3%)!
 - \[2022.11\] I have passed the Ph.D. qualifying exam!
 - \[2022.10\] I won the 2021-2022 PKU Academic Innovation Award (Top 1%)!
 - \[2022.09\] Two papers accepted to NeurIPS 2022!
@@ -44,13 +44,13 @@ I am broadly interested in theory, algorithm and application of machine learning
 == Recent Publications
 - [https://arxiv.org/abs/2305.12467 *Understanding Multi-phase Optimization Dynamics and Rich Nonlinear Behaviors of ReLU Networks*] \n
 *Mingze Wang*, Chao Ma\n
-Thirty-seventh Conference on Neural Information Processing Systems (*NeurIPS 2023*) (+spotlight+).
++Thirty-seventh Conference on Neural Information Processing Systems+ (*NeurIPS 2023*) ({{<font color=red size=+0.5><b>}}Spotlight, Top 3%{{</b></font>}}).
 - [https://arxiv.org/abs/2206.02139 *Early Stage Convergence and Global Convergence of Training Mildly Parameterized Neural Networks*] \n
 *Mingze Wang*, Chao Ma\n
-Thirty-sixth Conference on Neural Information Processing Systems (*NeurIPS 2022*).
++Thirty-sixth Conference on Neural Information Processing Systems+ (*NeurIPS 2022*).
 - [https://arxiv.org/abs/2207.02628 *The alignment property of SGD noise and how it helps select flat minima: A stability analysis*] \n
 Lei Wu, *Mingze Wang*, Weijie J. Su\n
-Thirty-sixth Conference on Neural Information Processing Systems (*NeurIPS 2022*).
++Thirty-sixth Conference on Neural Information Processing Systems+ (*NeurIPS 2022*).
 
 == Recent Preprints
 - *The Noise Geometry of Stochastic Gradient Descent: A Quantitative and Analytical Characterization* \n
