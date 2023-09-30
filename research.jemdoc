@@ -4,10 +4,10 @@
 
 
 == Research Interests
-I am broadly interested in theory, algorithm and application of machine learning. I am also interested in non-convex optimization and image processing. Specifically, my recent research topics are
+I am broadly interested in theory, algorithm and application of machine learning. I am also interested in non-convex and convex optimization. Specifically, my recent research topics are
 - *Deep Learning Theory*: optimization, generalization, implicit bias and approximation.
 - *Foundation Model and Transformer*: theory and algorithm.
-- *Non-convex Optimization*: theory and algorithm.
+- *Non-convex and Convex Optimization*: theory and algorithm.
 - *AI for Compositional Optimization*: theory and algorithm.
 - *CV and NLP*: algorithm and application.
 
@@ -24,9 +24,12 @@ Lei Wu, *Mingze Wang*, Weijie J. Su\n
 +Thirty-sixth Conference on Neural Information Processing Systems+ (*NeurIPS 2022*).
 
 == Preprints
+- *Achieving Margin Maximization Exponentially Fast via Progressive Norm Rescaling* \n
+*Mingze Wang*, Zeping Min, Lei Wu\n
+under review, Sep 2023.
 - *The Noise Geometry of Stochastic Gradient Descent: A Quantitative and Analytical Characterization* \n
 *Mingze Wang*, Lei Wu\n
-Under review, May 2023.
+Under review, Sep 2023.
 - [https://arxiv.org/abs/2206.03299 *Generalization Error Bounds for Deep Neural Networks Trained by SGD*] \n
 *Mingze Wang*, Chao Ma\n
 ArXiv preprint, June 2022.
