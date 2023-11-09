@@ -38,32 +38,41 @@ Please feel free to drop me an email if you are interested in collaborating with
 
 == Research Interests
 I am broadly interested in theory, algorithm and application of machine learning. I am also interested in non-convex and convex optimization. Specifically, my recent research topics are
-- *Deep Learning Theory*: optimization, generalization, implicit bias and approximation.
-- *Foundation Model and Transformer*: theory and algorithm.
+- *Deep Learning Theory*: optimization, generalization, and implicit bias.
+-- +Optimization+: When training neural networks, why can optimization algorithms converge to global minima? \[1\]\[4\]
+-- +Implicit Bias+: When training neural networks, why can optimization algorithms converge to global minima with favorable generalization ability (even without any explicit regularization)? Such as flat-minima-bias \[2\]\[5\] and max-margin-bias aspects \[4\]\[6\].
+-- +Algorithm Design+: For machine learning problems, design new optimization algorithms which can converge to global minima with better generalization ability. \[6\]
+-- +Generalization+: How to measure the generalization ability of neural networks. \[3\]
+- *Transformer and Large Language Model*: theory and algorithm.
+-- +Expressive Power+: The expressive power of Transformer (On the preparation).
+-- +Algorithm Design+: (On the preparation).
 - *Non-convex and Convex Optimization*: theory and algorithm.
-- *AI for Compositional Optimization*: theory and algorithm.
+-- +Convex Optimization in ML+. \[6\]
+-- +Non-convex Optimization in ML+. \[1\]\[4\]
 - *CV and NLP*: algorithm and application.
+-- +Foundation Models for CV+: (On the preparation).
+- *AI for Compositional Optimization*: theory and algorithm.
 
 == Recent Publications
-- [https://arxiv.org/abs/2305.12467 *Understanding Multi-phase Optimization Dynamics and Rich Nonlinear Behaviors of ReLU Networks*] \n
+- \[4\] [https://arxiv.org/abs/2305.12467 *Understanding Multi-phase Optimization Dynamics and Rich Nonlinear Behaviors of ReLU Networks*] \n
 *Mingze Wang*, Chao Ma\n
 +Thirty-seventh Conference on Neural Information Processing Systems+ (*NeurIPS 2023*) ({{<font color=red size=+0.5><b>}}Spotlight, Top 3%{{</b></font>}}).
-- [https://arxiv.org/abs/2206.02139 *Early Stage Convergence and Global Convergence of Training Mildly Parameterized Neural Networks*] \n
+- \[1\] [https://arxiv.org/abs/2206.02139 *Early Stage Convergence and Global Convergence of Training Mildly Parameterized Neural Networks*] \n
 *Mingze Wang*, Chao Ma\n
 +Thirty-sixth Conference on Neural Information Processing Systems+ (*NeurIPS 2022*).
-- [https://arxiv.org/abs/2207.02628 *The alignment property of SGD noise and how it helps select flat minima: A stability analysis*] \n
+- \[2\] [https://arxiv.org/abs/2207.02628 *The alignment property of SGD noise and how it helps select flat minima: A stability analysis*] \n
 Lei Wu, *Mingze Wang*, Weijie J. Su\n
 +Thirty-sixth Conference on Neural Information Processing Systems+ (*NeurIPS 2022*).
 
 == Recent Preprints
-- *Achieving Margin Maximization Exponentially Fast via Progressive Norm Rescaling* \n
+- \[6\] *Achieving Margin Maximization Exponentially Fast via Progressive Norm Rescaling* \n
 *Mingze Wang*, Zeping Min, Lei Wu\n
 under review, Sep 2023.
-- [https://arxiv.org/abs/2310.00692 *The Noise Geometry of Stochastic Gradient Descent: A Quantitative and Analytical Characterization*] \n
+- \[5\] [https://arxiv.org/abs/2310.00692 *The Noise Geometry of Stochastic Gradient Descent: A Quantitative and Analytical Characterization*] \n
 *Mingze Wang*, Lei Wu\n
 +NeurIPS 2023 Workshop on Mathematics of Modern Machine Learning+ (*NeurIPS 2023 - M3L*) \n
 under review, Sep 2023.
-- [https://arxiv.org/abs/2206.03299 *Generalization Error Bounds for Deep Neural Networks Trained by SGD*] \n
+- \[3\] [https://arxiv.org/abs/2206.03299 *Generalization Error Bounds for Deep Neural Networks Trained by SGD*] \n
 *Mingze Wang*, Chao Ma\n
 arXiv preprint, June 2022.
 
