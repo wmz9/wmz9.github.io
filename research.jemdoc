@@ -23,6 +23,9 @@ I am broadly interested in theory, algorithm and application of machine learning
 - \[4\] [https://arxiv.org/abs/2305.12467 *Understanding Multi-phase Optimization Dynamics and Rich Nonlinear Behaviors of ReLU Networks*] \n
 *Mingze Wang*, Chao Ma\n
 +Thirty-seventh Conference on Neural Information Processing Systems+ (*NeurIPS 2023*) ({{<font color=red size=+0.5><b>}}Spotlight, Top 3%{{</b></font>}}).
+- \[5\] [https://arxiv.org/abs/2310.00692 *The Noise Geometry of Stochastic Gradient Descent: A Quantitative and Analytical Characterization*] \n
+*Mingze Wang*, Lei Wu\n
++NeurIPS 2023 Workshop on Mathematics of Modern Machine Learning+ (*NeurIPS 2023 - M3L*). \n
 - \[1\] [https://arxiv.org/abs/2206.02139 *Early Stage Convergence and Global Convergence of Training Mildly Parameterized Neural Networks*] \n
 *Mingze Wang*, Chao Ma\n
 +Thirty-sixth Conference on Neural Information Processing Systems+ (*NeurIPS 2022*).
@@ -33,10 +36,6 @@ Lei Wu, *Mingze Wang*, Weijie J. Su\n
 == Recent Preprints
 - \[6\] *Achieving Margin Maximization Exponentially Fast via Progressive Norm Rescaling* \n
 *Mingze Wang*, Zeping Min, Lei Wu\n
-under review, Sep 2023.
-- \[5\] [https://arxiv.org/abs/2310.00692 *The Noise Geometry of Stochastic Gradient Descent: A Quantitative and Analytical Characterization*] \n
-*Mingze Wang*, Lei Wu\n
-+NeurIPS 2023 Workshop on Mathematics of Modern Machine Learning+ (*NeurIPS 2023 - M3L*) \n
 under review, Sep 2023.
 - \[3\] [https://arxiv.org/abs/2206.03299 *Generalization Error Bounds for Deep Neural Networks Trained by SGD*] \n
 *Mingze Wang*, Chao Ma\n
