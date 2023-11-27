@@ -50,7 +50,6 @@ I am broadly interested in theory, algorithm and application of machine learning
 -- +Convex Optimization in ML+. \[6\]
 -- +Non-convex Optimization in ML+. \[1\]\[4\]
 - *CV and NLP*: algorithm and application.
--- +Foundation Models for CV+: (On the preparation).
 - *AI for Compositional Optimization*: theory and algorithm.
 
 == Recent Publications
@@ -68,7 +67,7 @@ Lei Wu, *Mingze Wang*, Weijie J. Su\n
 +Thirty-sixth Conference on Neural Information Processing Systems+ (*NeurIPS 2022*).
 
 == Recent Preprints
-- \[6\] *Achieving Margin Maximization Exponentially Fast via Progressive Norm Rescaling* \n
+- \[6\] [https://arxiv.org/abs/2311.14387 *Achieving Margin Maximization Exponentially Fast via Progressive Norm Rescaling*] \n
 *Mingze Wang*, Zeping Min, Lei Wu\n
 under review, Sep 2023.
 - \[3\] [https://arxiv.org/abs/2206.03299 *Generalization Error Bounds for Deep Neural Networks Trained by SGD*] \n
