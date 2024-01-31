@@ -10,7 +10,7 @@ I am broadly interested in theory, algorithm and application of machine learning
 -- +Algorithm Design+: For machine learning problems, design new optimization algorithms which can converge to global minima with better generalization ability. \[6\]
 -- +Generalization+: How to measure the generalization ability of neural networks. \[3\]
 - *Transformer and Large Language Model*: theory and algorithm.
--- +Expressive Power+: The expressive power of Transformer (On the preparation).
+-- +Expressive Power+: The expressive power and Mechanisms of Transformer \[8\]. (On the preparation)
 -- +Algorithm Design+: (On the preparation).
 - *Non-convex and Convex Optimization*: theory and algorithm.
 -- +Convex Optimization in ML+. \[6\]
@@ -33,6 +33,12 @@ Lei Wu, *Mingze Wang*, Weijie J. Su\n
 +Thirty-sixth Conference on Neural Information Processing Systems+ (*NeurIPS 2022*).
 
 == Recent Preprints
+- \[8\] *Understanding the Expressive Power and Mechanisms of Transformer for Sequence Modeling* \n
+*Mingze Wang*, Weinan E\n
+under review, Jan 2024.
+- \[7\] *Implicit Bias of Stochastic Gradient Descent: a Symmetry Perspective* \n
+Liu Ziyin, *Mingze Wang*, Lei Wu\n
+under review, Jan 2024.
 - \[6\] [https://arxiv.org/abs/2311.14387 *Achieving Margin Maximization Exponentially Fast via Progressive Norm Rescaling*] \n
 *Mingze Wang*, Zeping Min, Lei Wu\n
 arXiv preprint, Nov 2023.
@@ -42,9 +48,13 @@ arXiv preprint, June 2022.
 
 == Co-authors
 
+- [https://web.math.princeton.edu/~weinan/ *Weinan E*.] Peking University; Princeton University; AI for Science Institute.
+
 - [https://www.chaom.org/ *Chao Ma*.] Department of Mathematics, Stanford University.
 
 - [https://leiwu0.github.io/index.html *Lei Wu*.] School of Mathematical Sciences, Peking University.
 
 - [http://stat.wharton.upenn.edu/~suw/ *Weijie J. Su*.] Department of Statistics and Data Science, University of Pennsylvania.
+
+- [http://cat.phys.s.u-tokyo.ac.jp/~zliu/ *Ziyin Liu*.] Department of Physics, University of Tokyo.
 
