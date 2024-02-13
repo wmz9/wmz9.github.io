@@ -8,9 +8,10 @@ I am broadly interested in theory, algorithm and application of machine learning
 -- +Optimization+: When training neural networks, why can optimization algorithms converge to global minima? \[1\]\[4\]
 -- +Implicit Bias+: When training neural networks, why can optimization algorithms converge to global minima with favorable generalization ability (even without any explicit regularization)? Such as flat-minima-bias \[2\]\[5\] and max-margin-bias aspects \[4\]\[6\].
 -- +Algorithm Design+: For machine learning problems, design new optimization algorithms which can converge to global minima with better generalization ability. \[6\]
+-- +Approximation+: Exploring the expressive power of deep neural networks through the lens of approximation theory. \[7\] 
 -- +Generalization+: How to measure the generalization ability of neural networks. \[3\]
 - *Transformer and Large Language Model*: theory and algorithm.
--- +Expressive Power+: The expressive power and mechanisms of Transformer \[8\]. (On the preparation)
+-- +Expressive Power+: The expressive power and mechanisms of Transformer \[7\]. (On the preparation)
 -- +Algorithm Design+: (On the preparation).
 - *Non-convex and Convex Optimization*: theory and algorithm.
 -- +Convex Optimization in ML+. \[6\]
@@ -33,12 +34,12 @@ Lei Wu, *Mingze Wang*, Weijie J. Su\n
 +Thirty-sixth Conference on Neural Information Processing Systems+ (*NeurIPS 2022*), 1-25.
 
 == Recent Preprints
-- \[8\] [https://arxiv.org/abs/2402.00522 *Understanding the Expressive Power and Mechanisms of Transformer for Sequence Modeling*] \n
+- \[7\] [https://arxiv.org/abs/2402.00522 *Understanding the Expressive Power and Mechanisms of Transformer for Sequence Modeling*] \n
 *Mingze Wang*, Weinan E\n
-arXiv preprint, 1-65, Jan 2024.
-- \[7\] *Implicit Bias of Stochastic Gradient Descent: a Symmetry Perspective* \n
-Liu Ziyin, *Mingze Wang*, Lei Wu\n
-under review, Jan 2024.
+arXiv preprint, 1-65, Feb 2024.
+- \[8\] [https://arxiv.org/pdf/2402.07193 *The Implicit Bias of Gradient Noise: a Symmetry Perspective*] \n
+Liu Ziyin, *Mingze Wang*, Lei Wu \n
+arXiv preprint, 1-17, Feb 2024.
 - \[6\] [https://arxiv.org/abs/2311.14387 *Achieving Margin Maximization Exponentially Fast via Progressive Norm Rescaling*] \n
 *Mingze Wang*, Zeping Min, Lei Wu\n
 arXiv preprint, 1-38, Nov 2023.
@@ -56,5 +57,5 @@ arXiv preprint, 1-32, June 2022.
 
 - [http://stat.wharton.upenn.edu/~suw/ *Weijie J. Su*.] Department of Statistics and Data Science, University of Pennsylvania.
 
-- [http://cat.phys.s.u-tokyo.ac.jp/~zliu/ *Ziyin Liu*.] Department of Physics, University of Tokyo.
+- [http://cat.phys.s.u-tokyo.ac.jp/~zliu/ *Liu Ziyin*.] Department of Physics, University of Tokyo.
 
