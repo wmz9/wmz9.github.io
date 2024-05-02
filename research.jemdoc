@@ -3,7 +3,7 @@
 == Research
 
 == Research Interests
-I am broadly interested in theory, algorithm and application of machine learning. I am also interested in non-convex and convex optimization. Specifically, my recent research topics are
+I am broadly interested in theory, algorithm and application of machine learning. I am also interested in non-convex and convex optimization. Recently, I am also dedicated to to use theory to design algorithms elegantly. Specifically, my recent research topics are
 - *Deep Learning Theory*: optimization, generalization, implicit bias, and approximation.
 -- +Optimization+: When training neural networks, why can optimization algorithms converge to global minima? \[1\]\[4\]
 -- +Implicit Bias+: When training neural networks, why can optimization algorithms converge to global minima with favorable generalization ability (even without any explicit regularization)? Such as flat-minima-bias \[2\]\[5\] and max-margin-bias aspects \[4\]\[6\].
@@ -20,18 +20,21 @@ I am broadly interested in theory, algorithm and application of machine learning
 - *AI for Compositional Optimization*: theory and algorithm.
 
 == Recent Publications
+- \[6\] [https://arxiv.org/abs/2311.14387 *Achieving Margin Maximization Exponentially Fast via Progressive Norm Rescaling*] \n
+*Mingze Wang*, Zeping Min, Lei Wu\n
++2024 International Conference on Machine Learning+, (*ICML 2024*) 1-38.
 - \[4\] [https://arxiv.org/abs/2305.12467 *Understanding Multi-phase Optimization Dynamics and Rich Nonlinear Behaviors of ReLU Networks*] \n
 *Mingze Wang*, Chao Ma\n
-+Thirty-seventh Conference on Neural Information Processing Systems+ (*NeurIPS 2023*) ({{<font color=red size=+0.5><b>}}Spotlight, Top 3.5%{{</b></font>}}), 1-94.
++2023 Conference on Neural Information Processing Systems+ (*NeurIPS 2023*) ({{<font color=red size=+0.5><b>}}Spotlight, Top 3.5%{{</b></font>}}), 1-94.
 - \[5\] [https://arxiv.org/abs/2310.00692 *A Theoretical Analysis of Noise Geometry in Stochastic Gradient Descent*] \n
 *Mingze Wang*, Lei Wu\n
 +NeurIPS 2023 Workshop on Mathematics of Modern Machine Learning+ (*NeurIPS 2023 - M3L*), 1-30. \n
 - \[1\] [https://arxiv.org/abs/2206.02139 *Early Stage Convergence and Global Convergence of Training Mildly Parameterized Neural Networks*] \n
 *Mingze Wang*, Chao Ma\n
-+Thirty-sixth Conference on Neural Information Processing Systems+ (*NeurIPS 2022*), 1-73.
++2022 Conference on Neural Information Processing Systems+ (*NeurIPS 2022*), 1-73.
 - \[2\] [https://arxiv.org/abs/2207.02628 *The alignment property of SGD noise and how it helps select flat minima: A stability analysis*] \n
 Lei Wu, *Mingze Wang*, Weijie J. Su\n
-+Thirty-sixth Conference on Neural Information Processing Systems+ (*NeurIPS 2022*), 1-25.
++2022 Conference on Neural Information Processing Systems+ (*NeurIPS 2022*), 1-25.
 
 == Recent Preprints
 - \[7\] [https://arxiv.org/abs/2402.00522 *Understanding the Expressive Power and Mechanisms of Transformer for Sequence Modeling*] \n
@@ -40,9 +43,6 @@ arXiv preprint, 1-65, Feb 2024.
 - \[8\] [https://arxiv.org/pdf/2402.07193 *The Implicit Bias of Gradient Noise: a Symmetry Perspective*] \n
 Liu Ziyin, *Mingze Wang*, Lei Wu \n
 arXiv preprint, 1-17, Feb 2024.
-- \[6\] [https://arxiv.org/abs/2311.14387 *Achieving Margin Maximization Exponentially Fast via Progressive Norm Rescaling*] \n
-*Mingze Wang*, Zeping Min, Lei Wu\n
-arXiv preprint, 1-38, Nov 2023.
 - \[3\] [https://arxiv.org/abs/2206.03299 *Generalization Error Bounds for Deep Neural Networks Trained by SGD*] \n
 *Mingze Wang*, Chao Ma\n
 arXiv preprint, 1-32, June 2022.
@@ -57,5 +57,5 @@ arXiv preprint, 1-32, June 2022.
 
 - [http://stat.wharton.upenn.edu/~suw/ *Weijie J. Su*.] Department of Statistics and Data Science, University of Pennsylvania.
 
-- [http://cat.phys.s.u-tokyo.ac.jp/~zliu/ *Liu Ziyin*.] Department of Physics, University of Tokyo.
+- [https://www.mit.edu/~ziyinl/ *Liu Ziyin*.] Department of Physics, MIT.
 
