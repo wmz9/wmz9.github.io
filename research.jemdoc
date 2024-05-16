@@ -16,13 +16,15 @@ I am broadly interested in theory, algorithm and application of machine learning
 - *Non-convex and Convex Optimization*: theory and algorithm.
 -- +Convex Optimization in ML+. \[6\]
 -- +Non-convex Optimization in ML+. \[1\]\[4\]
-- *CV and NLP*: algorithm and application.
-- *AI for Compositional Optimization*: theory and algorithm.
+- *CV and NLP*: algorithm and application. \[9\]
 
 == Recent Publications
 - \[6\] [https://arxiv.org/abs/2311.14387 *Achieving Margin Maximization Exponentially Fast via Progressive Norm Rescaling*] \n
 *Mingze Wang*, Zeping Min, Lei Wu\n
 +2024 International Conference on Machine Learning+, (*ICML 2024*) 1-38.
+- \[9\] Are AI-Generated Text Detectors Robust to Adversarial Perturbations? \n
+Guanhua Huang, Yuchen Zhang, Zhe Li, Yongjian You, *Mingze Wang*, Zhouwang Yang\n
++2024 Annual Meeting of the Association for Computational Linguistics+, (*ACL 2024*)
 - \[4\] [https://arxiv.org/abs/2305.12467 *Understanding Multi-phase Optimization Dynamics and Rich Nonlinear Behaviors of ReLU Networks*] \n
 *Mingze Wang*, Chao Ma\n
 +2023 Conference on Neural Information Processing Systems+ (*NeurIPS 2023*) ({{<font color=red size=+0.5><b>}}Spotlight, Top 3.5%{{</b></font>}}), 1-94.
