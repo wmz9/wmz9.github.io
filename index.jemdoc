@@ -46,7 +46,8 @@ I am now an Algorithm Intern at a start-up AGI company in Hangzhou (2023.12-now)
 
 == Research Interests
 I am broadly interested in theory, algorithm and application of machine learning. I am also interested in non-convex and convex optimization. 
-Recently, I am also dedicated to to use theory to design algorithms elegantly. 
+Recently, I am dedicated to to use theory to design algorithms elegantly. 
+
 Specifically, my recent research topics are
 - *Deep Learning Theory*: optimization, generalization, implicit bias, and approximation. \[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]\[8\]\[10\]
 - *Transformer and Large Language Model*: theory and algorithm. \[7\]\[10\]
@@ -79,7 +80,7 @@ Lei Wu, *Mingze Wang*, Weijie J. Su\n
 under review, May 2024.
 - \[7\] [https://arxiv.org/abs/2402.00522 *Understanding the Expressive Power and Mechanisms of Transformer for Sequence Modeling*] \n
 *Mingze Wang*, Weinan E \n
-arXiv preprint, 1-65, Feb 2024.
+arXiv preprint, 1-70, Feb 2024.
 - \[8\] [https://arxiv.org/pdf/2402.07193 *The Implicit Bias of Gradient Noise: a Symmetry Perspective*] \n
 Liu Ziyin, *Mingze Wang*, Lei Wu \n
 arXiv preprint, 1-17, Feb 2024.
