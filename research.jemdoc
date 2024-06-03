@@ -41,14 +41,14 @@ Lei Wu, *Mingze Wang*, Weijie J. Su\n
 +2022 Conference on Neural Information Processing Systems+ (*NeurIPS 2022*), 1-25.
 
 == Recent Preprints
-- \[10\] [ *Improving Generalization and Convergence by Enhancing Implicit Regularization*] \n
+- \[10\] [https://arxiv.org/pdf/2405.20763 *Improving Generalization and Convergence by Enhancing Implicit Regularization*] \n
 *Mingze Wang*, Haotian He, Jinbo Wang, Zilin Wang, Guanhua Huang, Feiyu Xiong, Zhiyu Li, Weinan E, Lei Wu \n
-under review, May 2024.
+arXiv preprint, 1-35, May 2024.
 - \[7\] [https://arxiv.org/abs/2402.00522 *Understanding the Expressive Power and Mechanisms of Transformer for Sequence Modeling*] \n
 *Mingze Wang*, Weinan E\n
 arXiv preprint, 1-70, Feb 2024.
 - \[8\] [https://arxiv.org/pdf/2402.07193 *The Implicit Bias of Gradient Noise: a Symmetry Perspective*] \n
-Liu Ziyin, *Mingze Wang*, Lei Wu \n
+Liu Ziyin, *Mingze Wang*, Hongchao Li, Lei Wu \n
 arXiv preprint, 1-17, Feb 2024.
 - \[3\] [https://arxiv.org/abs/2206.03299 *Generalization Error Bounds for Deep Neural Networks Trained by SGD*] \n
 *Mingze Wang*, Chao Ma\n
