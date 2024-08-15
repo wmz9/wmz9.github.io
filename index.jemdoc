@@ -21,7 +21,7 @@ Email: mingzewang \[at\] stu \[dot\] pku \[dot\] edu \[dot\] cn\n
 
 
 == About me
-I am a third-year Ph.D student in Computational Mathematics, [https://www.math.pku.edu.cn/ School of Mathematical Sciences], [https://english.pku.edu.cn/ Peking University] (2021-Present). I am very fortunate to be advised by [https://web.math.princeton.edu/~weinan/ Prof. Weinan E]. Prior to that, I received my B.S. degree in Pure and Applied Mathematics (ranking 1/111 for the first three years during my undergraduate study) from [http://www.math.zju.edu.cn/mathen/ School of Mathematical Sciences], [https://www.zju.edu.cn/ Zhejiang University], Hangzhou, China in 2021.
+I am a third-year Ph.D candidate in Computational Mathematics, [https://www.math.pku.edu.cn/ School of Mathematical Sciences], [https://english.pku.edu.cn/ Peking University] (2021-Present). I am very fortunate to be advised by [https://web.math.princeton.edu/~weinan/ Prof. Weinan E]. Prior to that, I received my B.S. degree in Pure and Applied Mathematics (ranking 1/111 for the first three years during my undergraduate study) from [http://www.math.zju.edu.cn/mathen/ School of Mathematical Sciences], [https://www.zju.edu.cn/ Zhejiang University], Hangzhou, China in 2021.
 
 ~~~
 Please feel free to drop me an email if you are interested in collaborating with me.
@@ -43,45 +43,45 @@ Please feel free to drop me an email if you are interested in collaborating with
 == Research Interests
 I am broadly interested in theory, algorithm and application of machine learning. I am also interested in non-convex and convex optimization. 
 
-Recently, I am dedicated to to use theory to design algorithms elegantly. 
+Recently, I am dedicated to use theory to design algorithms elegantly. 
 
 Specifically, my recent research topics are
-- *Deep Learning Theory*: optimization, generalization, implicit bias, and approximation. \[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]\[8\]\[10\]
-- *Transformer and Large Language Model*: theory and algorithm. \[7\]\[10\]
-- *Non-convex and Convex Optimization*: theory and algorithm. \[1\]\[4\]\[6\]\[10\]
-- *CV and NLP*: algorithm and application. \[9\]\[10\]
+- *Deep Learning Theory*: optimization, generalization, implicit bias, and expressivity. \[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[8\]\[9\]\[10\]
+- *Transformer and Large Language Model*: theory and algorithm. \[9\]\[10\]
+- *Non-convex and Convex Optimization*: theory and algorithm. \[2\]\[4\]\[6\]\[10\]
+- *CV and NLP*: algorithm and application. \[7\]
 
 == Recent Publications
+- \[7\] [https://arxiv.org/abs/2406.01179 *Are AI-Generated Text Detectors Robust to Adversarial Perturbations?*] \n
+Guanhua Huang, Yuchen Zhang, Zhe Li, Yongjian You, *Mingze Wang*, Zhouwang Yang\n
++2024 Annual Meeting of the Association for Computational Linguistics+ (*ACL 2024*), 1-20.
 - \[6\] [https://arxiv.org/abs/2311.14387 *Achieving Margin Maximization Exponentially Fast via Progressive Norm Rescaling*] \n
 *Mingze Wang*, Zeping Min, Lei Wu\n
 +2024 International Conference on Machine Learning+, (*ICML 2024*) 1-38.
-- \[9\] [https://arxiv.org/abs/2406.01179 *Are AI-Generated Text Detectors Robust to Adversarial Perturbations?*] \n
-Guanhua Huang, Yuchen Zhang, Zhe Li, Yongjian You, *Mingze Wang*, Zhouwang Yang\n
-+2024 Annual Meeting of the Association for Computational Linguistics+, (*ACL 2024*)
-- \[4\] [https://arxiv.org/abs/2305.12467 *Understanding Multi-phase Optimization Dynamics and Rich Nonlinear Behaviors of ReLU Networks*] \n
-*Mingze Wang*, Chao Ma\n
-+2023 Conference on Neural Information Processing Systems+ (*NeurIPS 2023*) ({{<font color=red size=+0.5><b>}}Spotlight, Top 3.5%{{</b></font>}}), 1-94.
 - \[5\] [https://arxiv.org/abs/2310.00692 *A Theoretical Analysis of Noise Geometry in Stochastic Gradient Descent*] \n
 *Mingze Wang*, Lei Wu\n
 +NeurIPS 2023 Workshop on Mathematics of Modern Machine Learning+ (*NeurIPS 2023 - M3L*), 1-30. \n
-- \[1\] [https://arxiv.org/abs/2206.02139 *Early Stage Convergence and Global Convergence of Training Mildly Parameterized Neural Networks*] \n
+- \[4\] [https://arxiv.org/abs/2305.12467 *Understanding Multi-phase Optimization Dynamics and Rich Nonlinear Behaviors of ReLU Networks*] \n
 *Mingze Wang*, Chao Ma\n
-+2022 Conference on Neural Information Processing Systems+ (*NeurIPS 2022*), 1-73.
-- \[2\] [https://arxiv.org/abs/2207.02628 *The alignment property of SGD noise and how it helps select flat minima: A stability analysis*] \n
++2023 Conference on Neural Information Processing Systems+ (*NeurIPS 2023*) ({{<font color=red size=+0.5><b>}}Spotlight, Top 3.5%{{</b></font>}}), 1-94.
+- \[3\] [https://arxiv.org/abs/2207.02628 *The alignment property of SGD noise and how it helps select flat minima: A stability analysis*] \n
 Lei Wu, *Mingze Wang*, Weijie J. Su\n
 +2022 Conference on Neural Information Processing Systems+ (*NeurIPS 2022*), 1-25.
+- \[2\] [https://arxiv.org/abs/2206.02139 *Early Stage Convergence and Global Convergence of Training Mildly Parameterized Neural Networks*] \n
+*Mingze Wang*, Chao Ma\n
++2022 Conference on Neural Information Processing Systems+ (*NeurIPS 2022*), 1-73.
 
 == Recent Preprints
 - \[10\] [https://arxiv.org/abs/2405.20763 *Improving Generalization and Convergence by Enhancing Implicit Regularization*] \n
 *Mingze Wang*, Haotian He, Jinbo Wang, Zilin Wang, Guanhua Huang, Feiyu Xiong, Zhiyu Li, Weinan E, Lei Wu \n
 arXiv preprint, 1-35, May 2024.
-- \[7\] [https://arxiv.org/abs/2402.00522 *Understanding the Expressive Power and Mechanisms of Transformer for Sequence Modeling*] \n
+- \[9\] [https://arxiv.org/abs/2402.00522 *Understanding the Expressive Power and Mechanisms of Transformer for Sequence Modeling*] \n
 *Mingze Wang*, Weinan E \n
 arXiv preprint, 1-70, Feb 2024.
-- \[8\] [https://arxiv.org/abs/2402.07193 *The Implicit Bias of Gradient Noise: a Symmetry Perspective*] \n
+- \[8\] [https://arxiv.org/abs/2402.07193 *Loss Symmetry and Noise Equilibrium of Stochastic Gradient Descent*] \n
 Liu Ziyin, *Mingze Wang*, Hongchao Li, Lei Wu \n
-arXiv preprint, 1-17, Feb 2024.
-- \[3\] [https://arxiv.org/abs/2206.03299 *Generalization Error Bounds for Deep Neural Networks Trained by SGD*] \n
+arXiv preprint, 1-26, Feb 2024.
+- \[1\] [https://arxiv.org/abs/2206.03299 *Generalization Error Bounds for Deep Neural Networks Trained by SGD*] \n
 *Mingze Wang*, Chao Ma\n
 arXiv preprint, 1-32, June 2022.
 

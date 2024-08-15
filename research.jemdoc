@@ -8,51 +8,52 @@ I am broadly interested in theory, algorithm and application of machine learning
 Recently, I am dedicated to to use theory to design algorithms elegantly. 
 
 Specifically, my recent research topics are
-- *Deep Learning Theory*: optimization, generalization, implicit bias, and approximation.
--- +Optimization+: When training neural networks, why can optimization algorithms converge to global minima? \[1\]\[4\]
--- +Implicit Bias+: When training neural networks, why can optimization algorithms converge to global minima with favorable generalization ability (even without any explicit regularization)? Such as flat-minima-bias \[2\]\[5\] and max-margin-bias aspects \[4\]\[6\].
--- +Algorithm Design+: For machine learning problems, design new optimization algorithms which can converge to global minima with better generalization ability. \[6\]\[10\]
--- +Approximation+: Exploring the expressive power of deep neural networks through the lens of approximation theory. \[7\] 
--- +Generalization+: How to measure the generalization ability of neural networks. \[3\]
-- *Transformer and Large Language Model*: theory and algorithm.
--- +Expressive Power+: The expressive power and mechanisms of Transformer \[7\]. (On the preparation)
--- +Algorithm Design+: Design faster optimizers for pre-training LLMs \[10\].
-- *Non-convex and Convex Optimization*: theory and algorithm.
+- *Deep Learning Theory*: theory and theory-inspired algorithms.
+-- +Expressivity+: Exploring the expressive power of Transformers through the lens of approximation theory \[9\]; the expressivity of state-space models.
+-- +Optimization+: When training neural networks, why can optimization algorithms converge to global minima? \[2\]\[4\]
+-- +Implicit Bias+: When training neural networks, why can optimization algorithms converge to global minima with favorable generalization ability (even without any explicit regularization)? Such as flat-minima-bias \[3\]\[5\]\[10\] and max-margin-bias aspects \[4\]\[6\].
+-- +Generalization+: How to measure the generalization ability of neural networks. \[1\]
+-- +Algorithm Design+: For machine learning problems, design new optimization algorithms which can which can (i) converge faster \[10\]; (ii) generalize better \[6\]\[10\]
+- *Transformer and Large Language Model*: theory and algorithm. \[9\]\[10\]
+-- +Expressive Power+: The expressive power and mechanisms of Transformer \[9\]; the mechanisms of in-context learning; the expressivity of state-space models.
+-- +Algorithm Design+: Design faster optimizers for training LLMs \[10\]; design more efficient model architectures; design more efficient strategy for data selection
+- *Non-convex and Convex Optimization*: theory and algorithm. \[2\]\[4\]\[6\]\[10\]
 -- +Convex Optimization in ML+. \[6\]
--- +Non-convex Optimization in ML+. \[1\]\[4\]\[10\]
-- *CV and NLP*: algorithm and application. \[9\]\[10\]
+-- +Non-convex Optimization in ML+. \[2\]\[4\]\[10\]
+-- +Algorithm Design+: Design faster optimizers for training neural networks [10]; accelerate the convergence for the problems with specific structure [6].
+- *CV and NLP*: algorithm and application. \[7\]
 
 == Recent Publications
+- \[7\] [https://arxiv.org/abs/2406.01179 *Are AI-Generated Text Detectors Robust to Adversarial Perturbations?*] \n
+Guanhua Huang, Yuchen Zhang, Zhe Li, Yongjian You, *Mingze Wang*, Zhouwang Yang\n
++2024 Annual Meeting of the Association for Computational Linguistics+ (*ACL 2024*), 1-20. 
 - \[6\] [https://arxiv.org/abs/2311.14387 *Achieving Margin Maximization Exponentially Fast via Progressive Norm Rescaling*] \n
 *Mingze Wang*, Zeping Min, Lei Wu\n
 +2024 International Conference on Machine Learning+, (*ICML 2024*) 1-38.
-- \[9\] [https://arxiv.org/abs/2406.01179 *Are AI-Generated Text Detectors Robust to Adversarial Perturbations?*] \n
-Guanhua Huang, Yuchen Zhang, Zhe Li, Yongjian You, *Mingze Wang*, Zhouwang Yang\n
-+2024 Annual Meeting of the Association for Computational Linguistics+, (*ACL 2024*)
-- \[4\] [https://arxiv.org/abs/2305.12467 *Understanding Multi-phase Optimization Dynamics and Rich Nonlinear Behaviors of ReLU Networks*] \n
-*Mingze Wang*, Chao Ma\n
-+2023 Conference on Neural Information Processing Systems+ (*NeurIPS 2023*) ({{<font color=red size=+0.5><b>}}Spotlight, Top 3.5%{{</b></font>}}), 1-94.
 - \[5\] [https://arxiv.org/abs/2310.00692 *A Theoretical Analysis of Noise Geometry in Stochastic Gradient Descent*] \n
 *Mingze Wang*, Lei Wu\n
 +NeurIPS 2023 Workshop on Mathematics of Modern Machine Learning+ (*NeurIPS 2023 - M3L*), 1-30. \n
-- \[1\] [https://arxiv.org/abs/2206.02139 *Early Stage Convergence and Global Convergence of Training Mildly Parameterized Neural Networks*] \n
+- \[4\] [https://arxiv.org/abs/2305.12467 *Understanding Multi-phase Optimization Dynamics and Rich Nonlinear Behaviors of ReLU Networks*] \n
 *Mingze Wang*, Chao Ma\n
-+2022 Conference on Neural Information Processing Systems+ (*NeurIPS 2022*), 1-73.
-- \[2\] [https://arxiv.org/abs/2207.02628 *The alignment property of SGD noise and how it helps select flat minima: A stability analysis*] \n
++2023 Conference on Neural Information Processing Systems+ (*NeurIPS 2023*) ({{<font color=red size=+0.5><b>}}Spotlight, Top 3.5%{{</b></font>}}), 1-94.
+- \[3\] [https://arxiv.org/abs/2207.02628 *The alignment property of SGD noise and how it helps select flat minima: A stability analysis*] \n
 Lei Wu, *Mingze Wang*, Weijie J. Su\n
 +2022 Conference on Neural Information Processing Systems+ (*NeurIPS 2022*), 1-25.
+- \[2\] [https://arxiv.org/abs/2206.02139 *Early Stage Convergence and Global Convergence of Training Mildly Parameterized Neural Networks*] \n
+*Mingze Wang*, Chao Ma\n
++2022 Conference on Neural Information Processing Systems+ (*NeurIPS 2022*), 1-73.
 
 == Recent Preprints
 - \[10\] [https://arxiv.org/abs/2405.20763 *Improving Generalization and Convergence by Enhancing Implicit Regularization*] \n
 *Mingze Wang*, Haotian He, Jinbo Wang, Zilin Wang, Guanhua Huang, Feiyu Xiong, Zhiyu Li, Weinan E, Lei Wu \n
 arXiv preprint, 1-35, May 2024.
-- \[7\] [https://arxiv.org/abs/2402.00522 *Understanding the Expressive Power and Mechanisms of Transformer for Sequence Modeling*] \n
+- \[9\] [https://arxiv.org/abs/2402.00522 *Understanding the Expressive Power and Mechanisms of Transformer for Sequence Modeling*] \n
 *Mingze Wang*, Weinan E\n
 arXiv preprint, 1-70, Feb 2024.
-- \[8\] [https://arxiv.org/abs/2402.07193 *The Implicit Bias of Gradient Noise: a Symmetry Perspective*] \n
+- \[8\] [https://arxiv.org/abs/2402.07193 *Loss Symmetry and Noise Equilibrium of Stochastic Gradient Descent*] \n
 Liu Ziyin, *Mingze Wang*, Hongchao Li, Lei Wu \n
-arXiv preprint, 1-17, Feb 2024.
-- \[3\] [https://arxiv.org/abs/2206.03299 *Generalization Error Bounds for Deep Neural Networks Trained by SGD*] \n
+arXiv preprint, 1-26, Feb 2024.
+- \[1\] [https://arxiv.org/abs/2206.03299 *Generalization Error Bounds for Deep Neural Networks Trained by SGD*] \n
 *Mingze Wang*, Chao Ma\n
 arXiv preprint, 1-32, June 2022.
 
