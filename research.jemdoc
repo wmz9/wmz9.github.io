@@ -20,7 +20,7 @@ Specifically, my recent research topics are
 - *Non-convex and Convex Optimization*: theory and algorithm. \[2\]\[4\]\[6\]\[10\]
 -- +Convex Optimization in ML+. \[6\]
 -- +Non-convex Optimization in ML+. \[2\]\[4\]\[10\]
--- +Algorithm Design+: Design faster optimizers for training neural networks [10]; accelerate the convergence for the problems with specific structure [6].
+-- +Algorithm Design+: Design faster optimizers for training neural networks \[10\]; accelerate the convergence for the problems with specific structure \[6\].
 - *CV and NLP*: algorithm and application. \[7\]
 
 == Recent Publications
