@@ -1,0 +1,106 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+# jemdoc: addcss{jemdoc.css}, notime
+==王铭泽
+
+~~~
+{}{img_left}{mingzewang.jpeg}{王铭泽}{171 px}{200 px}
+王铭泽 (Mingze Wang) \n
+博士候选人
+
+[https://english.pku.edu.cn/ 北京大学] [https://www.math.pku.edu.cn/ 数学科学学院] \n
+
+北京大学 静园六院 210 室\n
+北京大学 20 楼 210 室\n
+中国 北京, 100084\n
+
+电子邮箱: mingzewang \[at\] stu \[dot\] pku \[dot\] edu \[dot\] cn\n
+
+\[[https://scholar.google.com/citations?user=CkU47X0AAAAJ&hl=zh-CN&oi=ao Google Scholar]\] ~~~ \[[cv.pdf 简历]\]\n
+~~~
+
+
+== 关于我
+我是[https://english.pku.edu.cn/ 北京大学][https://www.math.pku.edu.cn/ 数学科学学院]计算数学专业的四年级直博生 (2021-现在)。 
+我非常荣幸能得到[https://web.math.princeton.edu/~weinan/ 鄂维南]院士的指导。
+在此之前，我于 2021 年在[https://www.zju.edu.cn/ 浙江大学][http://www.math.zju.edu.cn/mathen/ 数学科学学院]获得了数学与应用数学学士学位 (本科前三年排名为 1/111)。
+
+~~~
+如果您有兴趣与我合作，请随时给我发送电子邮件。
+~~~
+
+
+~~~
+== News
+- \[2024.09\] 我获得了 "国家奖学金 (博士)" ({{<font color=red>}}前 2%{{</font>}})!
+- \[2024.09\] 三篇论文被 NeurIPS 2024 接收!
+- \[2024.05\] 一篇论文被 ICML 2024 接收! 一篇论文被 ACL 2024 接收!
+- \[2023.11\] 我获得了 "北大数学研究生奖" ({{<font color=red>}}前 1%{{</font>}})!
+- \[2023.09\] 一篇论文被 NeurIPS 2023 接收，并选为 {{<font color=red>}}Spotlight{{</font>}} ({{<font color=red>}}前 3.5%{{</font>}})!
+- \[2022.11\] 我通过了博士生资格考试!
+- \[2022.10\] 我获得了 "北京大学学术创新奖" ({{<font color=red>}}前 1%{{</font>}})!
+- \[2022.09\] 两篇论文被 NeurIPS 2022 接收!
+~~~
+
+
+== 研究兴趣
+我对机器学习的理论、算法和应用有着广泛的兴趣。我对非凸和凸优化也很感兴趣。
+
+最近，我致力于使用理论来优雅地设计算法。
+
+具体来说，我最近的研究课题是
+- +深度学习理论+：优化理论、泛化理论、隐式偏好、表达能力。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[8\]\[9\]\[10\]
+- +Transformer 和大型语言模型+：理论与算法。\[8\]\[10\]
+- +非凸和凸优化+：理论与算法。\[2\]\[4\]\[6\]\[10\]
+- +CV 和 NLP+：算法与应用。\[7\]
+
+== 发表论文
+- \[10\] [https://arxiv.org/abs/2405.20763 *Improving Generalization and Convergence by Enhancing Implicit Regularization*] \n
+*Mingze Wang*, Jinbo Wang, Haotian He, Zilin Wang, Guanhua Huang, Feiyu Xiong, Zhiyu Li, Weinan E, Lei Wu \n
++2024 Conference on Neural Information Processing Systems+ (*NeurIPS 2024*), 1-35.
+- \[9\] [https://arxiv.org/abs/2402.07193 *Loss Symmetry and Noise Equilibrium of Stochastic Gradient Descent*] \n
+Liu Ziyin, *Mingze Wang*, Hongchao Li, Lei Wu \n
++2024 Conference on Neural Information Processing Systems+ (*NeurIPS 2024*), 1-26.
+- \[8\] [https://arxiv.org/abs/2402.00522 *Understanding the Expressive Power and Mechanisms of Transformer for Sequence Modeling*] \n
+*Mingze Wang*, Weinan E \n
++2024 Conference on Neural Information Processing Systems+ (*NeurIPS 2024*), 1-70.
+- \[7\] [https://arxiv.org/abs/2406.01179 *Are AI-Generated Text Detectors Robust to Adversarial Perturbations?*] \n
+Guanhua Huang, Yuchen Zhang, Zhe Li, Yongjian You, *Mingze Wang*, Zhouwang Yang\n
++2024 Annual Meeting of the Association for Computational Linguistics+ (*ACL 2024*), 1-20.
+- \[6\] [https://arxiv.org/abs/2311.14387 *Achieving Margin Maximization Exponentially Fast via Progressive Norm Rescaling*] \n
+*Mingze Wang*, Zeping Min, Lei Wu\n
++2024 International Conference on Machine Learning+ (*ICML 2024*), 1-38.
+- \[5\] [https://arxiv.org/abs/2310.00692 *A Theoretical Analysis of Noise Geometry in Stochastic Gradient Descent*] \n
+*Mingze Wang*, Lei Wu\n
++NeurIPS 2023 Workshop on Mathematics of Modern Machine Learning+ (*NeurIPS 2023 - M3L*), 1-30. \n
+- \[4\] [https://arxiv.org/abs/2305.12467 *Understanding Multi-phase Optimization Dynamics and Rich Nonlinear Behaviors of ReLU Networks*] \n
+*Mingze Wang*, Chao Ma\n
++2023 Conference on Neural Information Processing Systems+ (*NeurIPS 2023*) ({{<font color=red size=+0.5><b>}}Spotlight, top 3.5%{{</b></font>}}), 1-94.
+- \[3\] [https://arxiv.org/abs/2207.02628 *The alignment property of SGD noise and how it helps select flat minima: A stability analysis*] \n
+Lei Wu, *Mingze Wang*, Weijie J. Su\n
++2022 Conference on Neural Information Processing Systems+ (*NeurIPS 2022*), 1-25.
+- \[2\] [https://arxiv.org/abs/2206.02139 *Early Stage Convergence and Global Convergence of Training Mildly Parameterized Neural Networks*] \n
+*Mingze Wang*, Chao Ma\n
++2022 Conference on Neural Information Processing Systems+ (*NeurIPS 2022*), 1-73.
+
+== 预印本论文
+- \[1\] [https://arxiv.org/abs/2206.03299 *Generalization Error Bounds for Deep Neural Networks Trained by SGD*] \n
+*Mingze Wang*, Chao Ma\n
+arXiv preprint, 1-32, June 2022.
+
+== 部分奖项及荣誉
+
+- +国家奖学金 (博士)+ ({{<font color=red size=+0.5><b>}}前 2%{{</b></font>}}), 教育部, 2024.
+
+- +校长奖学金+, 北京大学, 2024.
+
+- +北大数学研究生奖+ ({{<font color=red size=+0.5><b>}}前 1%{{</b></font>}}), 北京大学, 2023.
+
+- +北京大学学术创新奖+ ({{<font color=red size=+0.5><b>}}前 1%{{</b></font>}}), 北京大学, 2022. 
+
+- +浙江省优秀毕业生+ (前 5%), 浙江省, 2021.
+
+- +浙江大学一等奖学金+ (前 3%), 浙江大学, 2019; 2020.
+
+- +国家奖学金 (本科)+ ({{<font color=red size=+0.5><b>}}前 2%{{</b></font>}}), 教育部, 2019.
+
+== 

@@ -30,13 +30,13 @@ Please feel free to drop me an email if you are interested in collaborating with
 
 ~~~
 == News
-- \[2024.09\] I won the 2024 China National Scholarship ({{<font color=red>}}Top 2%{{</font>}})!
+- \[2024.09\] I won the 2024 China National Scholarship ({{<font color=red>}}top 2%{{</font>}})!
 - \[2024.09\] Three papers accepted to NeurIPS 2024!
 - \[2024.05\] One paper accepted to ICML 2024! One paper accepted to ACL 2024!
-- \[2023.11\] I won the 2023 BICMR Mathematical Award for Graduate Students ({{<font color=red>}}Top 1%{{</font>}})!
-- \[2023.09\] One paper accepted to NeurIPS 2023 as a {{<font color=red>}}Spotlight{{</font>}} ({{<font color=red>}}Top 3.5%{{</font>}})!
+- \[2023.11\] I won the 2023 BICMR Mathematical Award for Graduate Students ({{<font color=red>}}top 1%{{</font>}})!
+- \[2023.09\] One paper accepted to NeurIPS 2023 as a {{<font color=red>}}Spotlight{{</font>}} ({{<font color=red>}}top 3.5%{{</font>}})!
 - \[2022.11\] I have passed the Ph.D. qualifying exam!
-- \[2022.10\] I won the 2022 PKU Academic Innovation Award ({{<font color=red>}}Top 1%{{</font>}})!
+- \[2022.10\] I won the 2022 PKU Academic Innovation Award ({{<font color=red>}}top 1%{{</font>}})!
 - \[2022.09\] Two papers accepted to NeurIPS 2022!
 ~~~
 
@@ -67,13 +67,13 @@ Guanhua Huang, Yuchen Zhang, Zhe Li, Yongjian You, *Mingze Wang*, Zhouwang Yang\
 +2024 Annual Meeting of the Association for Computational Linguistics+ (*ACL 2024*), 1-20.
 - \[6\] [https://arxiv.org/abs/2311.14387 *Achieving Margin Maximization Exponentially Fast via Progressive Norm Rescaling*] \n
 *Mingze Wang*, Zeping Min, Lei Wu\n
-+2024 International Conference on Machine Learning+, (*ICML 2024*) 1-38.
++2024 International Conference on Machine Learning+ (*ICML 2024*), 1-38.
 - \[5\] [https://arxiv.org/abs/2310.00692 *A Theoretical Analysis of Noise Geometry in Stochastic Gradient Descent*] \n
 *Mingze Wang*, Lei Wu\n
 +NeurIPS 2023 Workshop on Mathematics of Modern Machine Learning+ (*NeurIPS 2023 - M3L*), 1-30. \n
 - \[4\] [https://arxiv.org/abs/2305.12467 *Understanding Multi-phase Optimization Dynamics and Rich Nonlinear Behaviors of ReLU Networks*] \n
 *Mingze Wang*, Chao Ma\n
-+2023 Conference on Neural Information Processing Systems+ (*NeurIPS 2023*) ({{<font color=red size=+0.5><b>}}Spotlight, Top 3.5%{{</b></font>}}), 1-94.
++2023 Conference on Neural Information Processing Systems+ (*NeurIPS 2023*) ({{<font color=red size=+0.5><b>}}Spotlight, top 3.5%{{</b></font>}}), 1-94.
 - \[3\] [https://arxiv.org/abs/2207.02628 *The alignment property of SGD noise and how it helps select flat minima: A stability analysis*] \n
 Lei Wu, *Mingze Wang*, Weijie J. Su\n
 +2022 Conference on Neural Information Processing Systems+ (*NeurIPS 2022*), 1-25.
@@ -86,5 +86,20 @@ Lei Wu, *Mingze Wang*, Weijie J. Su\n
 *Mingze Wang*, Chao Ma\n
 arXiv preprint, 1-32, June 2022.
 
+== Selected Awards and Honours
+
+- +China National Scholarship+ ({{<font color=red size=+0.5><b>}}top 2%{{</b></font>}}), The Ministry of Education, 2024.
+
+- +Principal Scholarship+, Peking University, 2024.
+
+- +BICMR Mathematical Award for Graduate Students+ ({{<font color=red size=+0.5><b>}}top 1%{{</b></font>}}), Peking University, 2023.
+
+- +PKU Academic Innovation Award+ ({{<font color=red size=+0.5><b>}}top 1%{{</b></font>}}), Peking University, 2022. 
+
+- +Outstanding Graduate of Zhejiang Province+ (top 5%), Zhejiang Province, 2021.
+
+- +First Class Scholarship of ZJU+ (top 3%), Zhejiang University, 2019; 2020.
+
+- +China National Scholarship+ ({{<font color=red size=+0.5><b>}}top 2%{{</b></font>}}), The Ministry of Education, 2019.
 
 == 
