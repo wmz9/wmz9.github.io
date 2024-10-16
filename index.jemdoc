@@ -47,9 +47,9 @@ I am broadly interested in theory, algorithm and application of machine learning
 Recently, I am dedicated to use theory to design algorithms elegantly. 
 
 Specifically, my recent research topics are
-- *Deep Learning Theory*: optimization, generalization, implicit bias, and expressivity. \[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[8\]\[9\]\[10\]
-- *Transformer and Large Language Model*: theory and algorithm. \[8\]\[10\]
-- *Non-convex and Convex Optimization*: theory and algorithm. \[2\]\[4\]\[6\]\[10\]
+- *Deep Learning Theory*: optimization, generalization, implicit bias, and expressivity. \[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[8\]\[9\]\[10\]\[11\]\[12\]
+- *Transformer and Large Language Model*: theory and algorithm. \[8\]\[10\]\[12\]
+- *Non-convex and Convex Optimization*: theory and algorithm. \[2\]\[4\]\[6\]\[10\]\[11\]\[12\]
 - *CV and NLP*: algorithm and application. \[7\]
 
 == Recent Publications
@@ -82,6 +82,15 @@ Lei Wu, *Mingze Wang*, Weijie J. Su\n
 +2022 Conference on Neural Information Processing Systems+ (*NeurIPS 2022*), 1-73.
 
 == Recent Preprints
+
+\* indicates equal contribution.
+
+- \[12\] [https://arxiv.org/abs/2410.11474 *How Transformers Implement Induction Heads: Approximation and Optimization Analysis*] \n
+*Mingze Wang*\*, Ruoxi Yu*, Weinan E, Lei Wu. \n
+arXiv preprint, 1-39. Oct 2024.
+- \[11\] [https://arxiv.org/abs/2410.10373 *Sharpness-Aware Minimization Efficiently Selects Flatter Minima Late in Training*] \n
+Zhanpeng Zhou\*, *Mingze Wang*\*, Yuchen Mao, Bingrui Li, Junchi Yan. \n
+arXiv preprint, 1-24. Oct 2024.
 - \[1\] [https://arxiv.org/abs/2206.03299 *Generalization Error Bounds for Deep Neural Networks Trained by SGD*] \n
 *Mingze Wang*, Chao Ma\n
 arXiv preprint, 1-32, June 2022.
