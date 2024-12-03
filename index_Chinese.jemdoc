@@ -31,6 +31,7 @@
 
 ~~~
 == News
+- \[2024.12\] 我获得了 "国家自然科学基金青年学生基础研究项目(博士研究生)" ({{<font color=red>}}30万元{{</font>}}) 资助!
 - \[2024.09\] 我获得了 "国家奖学金 (博士)" ({{<font color=red>}}前 2%{{</font>}})!
 - \[2024.09\] 三篇论文被 NeurIPS 2024 接收!
 - \[2024.05\] 一篇论文被 ICML 2024 接收! 一篇论文被 ACL 2024 接收!
@@ -56,13 +57,13 @@
 == 发表论文
 - \[10\] [https://arxiv.org/abs/2405.20763 *Improving Generalization and Convergence by Enhancing Implicit Regularization*] \n
 *Mingze Wang*, Jinbo Wang, Haotian He, Zilin Wang, Guanhua Huang, Feiyu Xiong, Zhiyu Li, Weinan E, Lei Wu \n
-+2024 Conference on Neural Information Processing Systems+ (*NeurIPS 2024*), 1-35.
++2024 Conference on Neural Information Processing Systems+ (*NeurIPS 2024*), 1-44.
 - \[9\] [https://arxiv.org/abs/2402.07193 *Loss Symmetry and Noise Equilibrium of Stochastic Gradient Descent*] \n
 Liu Ziyin, *Mingze Wang*, Hongchao Li, Lei Wu \n
 +2024 Conference on Neural Information Processing Systems+ (*NeurIPS 2024*), 1-26.
 - \[8\] [https://arxiv.org/abs/2402.00522 *Understanding the Expressive Power and Mechanisms of Transformer for Sequence Modeling*] \n
 *Mingze Wang*, Weinan E \n
-+2024 Conference on Neural Information Processing Systems+ (*NeurIPS 2024*), 1-70.
++2024 Conference on Neural Information Processing Systems+ (*NeurIPS 2024*), 1-76.
 - \[7\] [https://arxiv.org/abs/2406.01179 *Are AI-Generated Text Detectors Robust to Adversarial Perturbations?*] \n
 Guanhua Huang, Yuchen Zhang, Zhe Li, Yongjian You, *Mingze Wang*, Zhouwang Yang\n
 +2024 Annual Meeting of the Association for Computational Linguistics+ (*ACL 2024*), 1-20.
@@ -96,6 +97,8 @@ arXiv preprint, 1-24. Oct 2024.
 arXiv preprint, 1-32, June 2022.
 
 == 部分奖项及荣誉
+
+- +国家自然科学基金青年学生基础研究项目(博士研究生)+ ({{<font color=red size=+0.5><b>}}30万元{{</b></font>}}), 2024.
 
 - +国家奖学金 (博士)+ ({{<font color=red size=+0.5><b>}}前 2%{{</b></font>}}), 教育部, 2024.
 
