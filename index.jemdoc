@@ -30,15 +30,17 @@ Please feel free to drop me an email if you are interested in collaborating with
 
 ~~~
 == News
-- \[2024.12\] I received support from the Young Scientists (Ph.D) Fund of the National Natural Science Foundation of China ({{<font color=red>}}¥300,000{{</font>}})!
-- \[2024.09\] I won the 2024 China National Scholarship ({{<font color=red>}}top 2%{{</font>}})!
-- \[2024.09\] Three papers accepted to NeurIPS 2024!
-- \[2024.05\] One paper accepted to ICML 2024! One paper accepted to ACL 2024!
-- \[2023.11\] I won the 2023 BICMR Mathematical Award for Graduate Students ({{<font color=red>}}top 1%{{</font>}})!
-- \[2023.09\] One paper accepted to NeurIPS 2023 as a {{<font color=red>}}Spotlight{{</font>}} ({{<font color=red>}}top 3.5%{{</font>}})!
-- \[2022.11\] I have passed the Ph.D. qualifying exam!
-- \[2022.10\] I won the 2022 PKU Academic Innovation Award ({{<font color=red>}}top 1%{{</font>}})!
-- \[2022.09\] Two papers accepted to NeurIPS 2022!
+- \[2025.01\] One paper accepted to ICLR 2025.
+- \[2025.01\] I am currently an algorithm intern at [https://www.meituan.com/en-US/about-us Meituan] LLM group.
+- \[2024.12\] I received support from the Young Scientists (Ph.D) Fund of the National Natural Science Foundation of China ({{<font color=red>}}¥300,000{{</font>}}).
+- \[2024.09\] I won the 2024 China National Scholarship ({{<font color=red>}}top 2%{{</font>}}).
+- \[2024.09\] Three papers accepted to NeurIPS 2024.
+- \[2024.05\] One paper accepted to ICML 2024. One paper accepted to ACL 2024.
+- \[2023.11\] I won the 2023 BICMR Mathematical Award for Graduate Students ({{<font color=red>}}top 1%{{</font>}}).
+- \[2023.09\] One paper accepted to NeurIPS 2023 as a {{<font color=red>}}Spotlight{{</font>}} ({{<font color=red>}}top 3.5%{{</font>}}).
+- \[2022.11\] I have passed the Ph.D. qualifying exam.
+- \[2022.10\] I won the 2022 PKU Academic Innovation Award ({{<font color=red>}}top 1%{{</font>}}).
+- \[2022.09\] Two papers accepted to NeurIPS 2022.
 ~~~
 
 
@@ -59,6 +61,9 @@ Specifically, my research on deep learning theory and algorithm can be summarize
 ~~~
 
 == Recent Publications
+- \[11\] [https://arxiv.org/abs/2410.10373 *Sharpness-Aware Minimization Efficiently Selects Flatter Minima Late in Training*] \n
+Zhanpeng Zhou\*, *Mingze Wang*\*, Yuchen Mao, Bingrui Li, Junchi Yan. \n
++2025 International Conference on Learning Representations+ (*ICLR 2025*), 1-31.
 - \[10\] [https://arxiv.org/abs/2405.20763 *Improving Generalization and Convergence by Enhancing Implicit Regularization*] \n
 *Mingze Wang*, Jinbo Wang, Haotian He, Zilin Wang, Guanhua Huang, Feiyu Xiong, Zhiyu Li, Weinan E, Lei Wu \n
 +2024 Conference on Neural Information Processing Systems+ (*NeurIPS 2024*), 1-44.
@@ -94,9 +99,6 @@ Lei Wu, *Mingze Wang*, Weijie J. Su\n
 - \[12\] [https://arxiv.org/abs/2410.11474 *How Transformers Implement Induction Heads: Approximation and Optimization Analysis*] \n
 *Mingze Wang*\*, Ruoxi Yu*, Weinan E, Lei Wu. \n
 arXiv preprint, 1-39. Oct 2024.
-- \[11\] [https://arxiv.org/abs/2410.10373 *Sharpness-Aware Minimization Efficiently Selects Flatter Minima Late in Training*] \n
-Zhanpeng Zhou\*, *Mingze Wang*\*, Yuchen Mao, Bingrui Li, Junchi Yan. \n
-arXiv preprint, 1-24. Oct 2024.
 - \[1\] [https://arxiv.org/abs/2206.03299 *Generalization Error Bounds for Deep Neural Networks Trained by SGD*] \n
 *Mingze Wang*, Chao Ma\n
 arXiv preprint, 1-32, June 2022.
