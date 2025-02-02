@@ -60,7 +60,11 @@ Specifically, my research on deep learning theory and algorithm can be summarize
 {}{img_left}{outline.png}{outline}{680 px}{270 px}
 ~~~
 
-== Recent Publications
+== Recent Publications and Preprints
+
+- \[12\] [https://arxiv.org/abs/2410.11474 *How Transformers Get Rich: Approximation and Dynamics Analysis*] \n
+*Mingze Wang*, Ruoxi Yu, Weinan E, Lei Wu. \n
+arXiv preprint, 1-47. Oct 2024.
 - \[11\] [https://arxiv.org/abs/2410.10373 *Sharpness-Aware Minimization Efficiently Selects Flatter Minima Late in Training*] \n
 Zhanpeng Zhou\*, *Mingze Wang*\*, Yuchen Mao, Bingrui Li, Junchi Yan. \n
 +2025 International Conference on Learning Representations+ (*ICLR 2025*), 1-31.
@@ -91,17 +95,12 @@ Lei Wu, *Mingze Wang*, Weijie J. Su\n
 - \[2\] [https://arxiv.org/abs/2206.02139 *Early Stage Convergence and Global Convergence of Training Mildly Parameterized Neural Networks*] \n
 *Mingze Wang*, Chao Ma\n
 +2022 Conference on Neural Information Processing Systems+ (*NeurIPS 2022*), 1-73.
-
-== Recent Preprints
-
-\* indicates equal contribution.
-
-- \[12\] [https://arxiv.org/abs/2410.11474 *How Transformers Implement Induction Heads: Approximation and Optimization Analysis*] \n
-*Mingze Wang*\*, Ruoxi Yu*, Weinan E, Lei Wu. \n
-arXiv preprint, 1-39. Oct 2024.
 - \[1\] [https://arxiv.org/abs/2206.03299 *Generalization Error Bounds for Deep Neural Networks Trained by SGD*] \n
 *Mingze Wang*, Chao Ma\n
 arXiv preprint, 1-32, June 2022.
+
+\* indicates equal contribution.
+
 
 == Selected Awards and Honours
 
