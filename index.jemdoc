@@ -50,10 +50,10 @@ I am broadly interested in theory, algorithm and application of machine learning
 Recently, I am dedicated to use theory to design algorithms elegantly. 
 
 My recent research topics are
-- *Deep Learning Theory*: *optimization*, *generalization*, *implicit bias*, and *expressivity*. \[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[8\]\[9\]\[10\]\[11\]\[12\]
-- *Transformer* and *Large Language Model*: theory and algorithm. \[8\]\[10\]\[12\]
-- *Non-convex* and *Convex Optimization*: theory and algorithm. \[2\]\[4\]\[6\]\[10\]\[11\]\[12\]
-- *CV and NLP*: algorithm and application. \[7\]
+- *Deep Learning Theory*: *optimization*, *generalization*, *implicit bias*, and *expressivity*. \[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[8\]\[9\]\[10\]\[11\]\[12\]\[13\]
+- *Transformer* and *Large Language Model*: theory and algorithm. \[8\]\[10\]\[12\]\[13\]
+- *Non-convex* and *Convex Optimization*: theory and algorithm. \[2\]\[4\]\[6\]\[10\]\[11\]\[12\]\[13\]
+- *CV and NLP*: algorithm and application. \[7\]\[10\]\[13\]
 
 Specifically, my research on deep learning theory and algorithm can be summarized as:
 ~~~
@@ -106,7 +106,7 @@ arXiv preprint, 1-32, June 2022.
 
 - +Young Scientists (Ph.D) Fund of the National Natural Science Foundation of China+ ({{<font color=red size=+0.5><b>}}¥300,000{{</b></font>}}), 2024.
 
-- +China National Scholarship+ ({{<font color=red size=+0.5><b>}}top 2%{{</b></font>}}), The Ministry of Education, 2024.
+- +China National Scholarship+ ({{<font color=red size=+0.5><b>}}top 0.2%{{</b></font>}} in the nation), The Ministry of Education, 2024.
 
 - +Principal Scholarship+, Peking University, 2024.
 
@@ -118,6 +118,6 @@ arXiv preprint, 1-32, June 2022.
 
 - +First Class Scholarship of ZJU+ (top 3%), Zhejiang University, 2019; 2020.
 
-- +China National Scholarship+ ({{<font color=red size=+0.5><b>}}top 2%{{</b></font>}}), The Ministry of Education, 2019.
+- +China National Scholarship+ ({{<font color=red size=+0.5><b>}}top 0.2%{{</b></font>}} in the nation), The Ministry of Education, 2019.
 
 == 
