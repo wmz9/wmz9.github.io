@@ -26,16 +26,16 @@ Specifically, my recent research topics are
 == Recent Publications and Preprints
 
 - \[13\] [http://arxiv.org/abs/2502.19002 *The Sharpness Disparity Principle in Transformers for Accelerating Language Model Pre-Training*] \n
-Jinbo Wang\*, *Mingze Wang*\*, Zhanpeng Zhou\*, Junchi Yan, Weinan E, Lei Wu. \n
+Jinbo Wang\*, *Mingze Wang\*†*, Zhanpeng Zhou\*, Junchi Yan, Weinan E, Lei Wu. \n
 under review, 1-23. Feb 2025.
 - \[12\] [https://arxiv.org/abs/2410.11474 *How Transformers Get Rich: Approximation and Dynamics Analysis*] \n
-*Mingze Wang*, Ruoxi Yu, Weinan E, Lei Wu. \n
+*Mingze Wang†*, Ruoxi Yu, Weinan E, Lei Wu. \n
 under review, 1-47. Oct 2024.
 - \[11\] [https://arxiv.org/abs/2410.10373 *Sharpness-Aware Minimization Efficiently Selects Flatter Minima Late in Training*] \n
-Zhanpeng Zhou\*, *Mingze Wang*\*, Yuchen Mao, Bingrui Li, Junchi Yan. \n
+Zhanpeng Zhou\*, *Mingze Wang\**, Yuchen Mao, Bingrui Li, Junchi Yan. \n
 +2025 International Conference on Learning Representations+ (*ICLR 2025*) ({{<font color=red size=+0.5><b>}}Spotlight, top 5.1%{{</b></font>}}), 1-31.
 - \[10\] [https://arxiv.org/abs/2405.20763 *Improving Generalization and Convergence by Enhancing Implicit Regularization*] \n
-*Mingze Wang*, Jinbo Wang, Haotian He, Zilin Wang, Guanhua Huang, Feiyu Xiong, Zhiyu Li, Weinan E, Lei Wu \n
+*Mingze Wang†*, Jinbo Wang, Haotian He, Zilin Wang, Guanhua Huang, Feiyu Xiong, Zhiyu Li, Weinan E, Lei Wu \n
 +2024 Conference on Neural Information Processing Systems+ (*NeurIPS 2024*), 1-44.
 - \[9\] [https://arxiv.org/abs/2402.07193 *Loss Symmetry and Noise Equilibrium of Stochastic Gradient Descent*] \n
 Liu Ziyin, *Mingze Wang*, Hongchao Li, Lei Wu \n
@@ -47,25 +47,25 @@ Liu Ziyin, *Mingze Wang*, Hongchao Li, Lei Wu \n
 Guanhua Huang, Yuchen Zhang, Zhe Li, Yongjian You, *Mingze Wang*, Zhouwang Yang\n
 +2024 Annual Meeting of the Association for Computational Linguistics+ (*ACL 2024*), 1-20.
 - \[6\] [https://arxiv.org/abs/2311.14387 *Achieving Margin Maximization Exponentially Fast via Progressive Norm Rescaling*] \n
-*Mingze Wang*, Zeping Min, Lei Wu\n
+*Mingze Wang†*, Zeping Min, Lei Wu\n
 +2024 International Conference on Machine Learning+ (*ICML 2024*), 1-38.
 - \[5\] [https://arxiv.org/abs/2310.00692 *A Theoretical Analysis of Noise Geometry in Stochastic Gradient Descent*] \n
 *Mingze Wang*, Lei Wu\n
 +NeurIPS 2023 Workshop on Mathematics of Modern Machine Learning+ (*NeurIPS 2023 - M3L*), 1-30. \n
 - \[4\] [https://arxiv.org/abs/2305.12467 *Understanding Multi-phase Optimization Dynamics and Rich Nonlinear Behaviors of ReLU Networks*] \n
-*Mingze Wang*, Chao Ma\n
+*Mingze Wang†*, Chao Ma\n
 +2023 Conference on Neural Information Processing Systems+ (*NeurIPS 2023*) ({{<font color=red size=+0.5><b>}}Spotlight, top 3.5%{{</b></font>}}), 1-94.
 - \[3\] [https://arxiv.org/abs/2207.02628 *The alignment property of SGD noise and how it helps select flat minima: A stability analysis*] \n
 Lei Wu, *Mingze Wang*, Weijie J. Su\n
 +2022 Conference on Neural Information Processing Systems+ (*NeurIPS 2022*), 1-25.
 - \[2\] [https://arxiv.org/abs/2206.02139 *Early Stage Convergence and Global Convergence of Training Mildly Parameterized Neural Networks*] \n
-*Mingze Wang*, Chao Ma\n
+*Mingze Wang†*, Chao Ma\n
 +2022 Conference on Neural Information Processing Systems+ (*NeurIPS 2022*), 1-73.
 - \[1\] [https://arxiv.org/abs/2206.03299 *Generalization Error Bounds for Deep Neural Networks Trained by SGD*] \n
-*Mingze Wang*, Chao Ma\n
+*Mingze Wang†*, Chao Ma\n
 arXiv preprint, 1-32, June 2022.
 
-\* indicates equal contribution.
+\* indicates equal contribution, † means project lead.
 
 == Co-authors
 
