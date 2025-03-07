@@ -52,7 +52,7 @@ Recently, I am dedicated to use theory to design algorithms elegantly.
 My recent research topics are
 - *Deep Learning Theory*: *optimization*, *generalization*, *implicit bias*, and *expressivity*. \[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[8\]\[9\]\[10\]\[11\]\[12\]\[13\]
 - *Transformer* and *Large Language Model*: theory and algorithm. \[8\]\[10\]\[12\]\[13\]
-- *Non-convex* and *Convex Optimization*: theory and algorithm. \[2\]\[4\]\[6\]\[10\]\[11\]\[12\]\[13\]
+- *Non-convex* and *Convex Optimization*: theory and algorithm. \[2\]\[4\]\[6\]\[10\]\[11\]\[12\]\[13\]\[14\]
 - *CV and NLP*: algorithm and application. \[7\]\[10\]\[13\]
 
 Specifically, my research on deep learning theory and algorithm can be summarized as:
@@ -62,6 +62,9 @@ Specifically, my research on deep learning theory and algorithm can be summarize
 
 == Recent Publications and Preprints
 
+- \[14\] [http://arxiv.org/abs/ *A Single Global Merging Suffices: Recovering Centralized Learning Performance in Decentralized Learning*] \n
+Tongtian Zhu, Tianyu Zhang, *Mingze Wang*, Zhanpeng Zhou, Can Wang. \n
++ICLR 2025 Workshop Weight Space Learning+ (*ICLR 2025 - WSL*), 1-23.
 - \[13\] [http://arxiv.org/abs/2502.19002 *The Sharpness Disparity Principle in Transformers for Accelerating Language Model Pre-Training*] \n
 Jinbo Wang\*, *Mingze Wang\*†*, Zhanpeng Zhou\*, Junchi Yan, Weinan E, Lei Wu. \n
 under review, 1-23. Feb 2025.
