@@ -64,6 +64,9 @@
 
 
 == 发表论文
+
+\* 表示平等贡献，† 表示主导项目.
+
 - \[14\] [http://arxiv.org/abs/ *A Single Global Merging Suffices: Recovering Centralized Learning Performance in Decentralized Learning*] \n
 Tongtian Zhu (朱同天), Tianyu Zhang (张天宇), *Mingze Wang* (王铭泽), Zhanpeng Zhou (周展鹏), Can Wang. \n
 +ICLR 2025 Workshop Weight Space Learning+ (*ICLR 2025 - WSL*), 1-23. \n
@@ -106,8 +109,6 @@ Lei Wu (吴磊), *Mingze Wang* (王铭泽), Weijie J. Su (苏炜杰)\n
 - \[1\] [https://arxiv.org/abs/2206.03299 *Generalization Error Bounds for Deep Neural Networks Trained by SGD*] \n
 *Mingze Wang†* (王铭泽), Chao Ma (马超)\n
 arXiv preprint, 1-32, June 2022.
-
-\* 表示平等贡献，† 表示主导项目.
 
 
 == 部分奖项及荣誉

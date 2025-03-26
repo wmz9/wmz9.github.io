@@ -62,6 +62,8 @@ Specifically, my research on deep learning theory and algorithm can be summarize
 
 == Recent Publications and Preprints
 
+\* indicates equal contribution, † means project lead.
+
 - \[14\] [http://arxiv.org/abs/ *A Single Global Merging Suffices: Recovering Centralized Learning Performance in Decentralized Learning*] \n
 Tongtian Zhu, Tianyu Zhang, *Mingze Wang*, Zhanpeng Zhou, Can Wang. \n
 +ICLR 2025 Workshop Weight Space Learning+ (*ICLR 2025 - WSL*), 1-23.
@@ -104,8 +106,6 @@ Lei Wu, *Mingze Wang*, Weijie J. Su\n
 - \[1\] [https://arxiv.org/abs/2206.03299 *Generalization Error Bounds for Deep Neural Networks Trained by SGD*] \n
 *Mingze Wang†*, Chao Ma\n
 arXiv preprint, 1-32, June 2022.
-
-\* indicates equal contribution, † means project lead.
 
 
 == Selected Awards and Honours
