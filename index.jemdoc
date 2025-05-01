@@ -30,6 +30,7 @@ Please feel free to drop me an email if you are interested in collaborating with
 
 ~~~
 == News
+- \[2024.05\] One paper accepted to ICML 2025. 
 - \[2025.01\] One paper accepted to ICLR 2025 as a {{<font color=red>}}Spotlight{{</font>}} ({{<font color=red>}}top 5.1%{{</font>}}).
 - \[2025.01\] I am currently an algorithm intern at [https://www.meituan.com/en-US/about-us Meituan] LLM group.
 - \[2024.12\] I received support from the Young Scientists (Ph.D) Fund of the National Natural Science Foundation of China ({{<font color=red>}}¥300,000{{</font>}}).
@@ -51,7 +52,7 @@ Recently, I am dedicated to use theory to design algorithms elegantly.
 
 My recent research topics are
 - *Deep Learning Theory*: *expressivity*, *optimization*, *generalization*, and *implicit bias*. \[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[8\]\[9\]\[10\]\[11\]\[12\]\[13\]
-- *Transformer* and *Large Language Model*: theory and algorithm. \[8\]\[10\]\[12\]\[13\]
+- *Transformer* and *Large Language Model*: theory and algorithm, especially in LLM pre-training. \[8\]\[10\]\[12\]\[13\]
 - *Non-convex* and *Convex Optimization*: theory and algorithm. \[2\]\[4\]\[6\]\[10\]\[11\]\[12\]\[13\]\[14\]
 - *CV and NLP*: algorithm and application. \[7\]\[10\]\[13\]
 
@@ -69,7 +70,7 @@ Tongtian Zhu, Tianyu Zhang, *Mingze Wang*, Zhanpeng Zhou, Can Wang. \n
 +ICLR 2025 Workshop Weight Space Learning+ (*ICLR 2025 - WSL*), 1-23.
 - \[13\] [http://arxiv.org/abs/2502.19002 *The Sharpness Disparity Principle in Transformers for Accelerating Language Model Pre-Training*] \n
 Jinbo Wang\*, *Mingze Wang\*†*, Zhanpeng Zhou\*, Junchi Yan, Weinan E, Lei Wu. \n
-under review, 1-23. Feb 2025.
++2025 International Conference on Machine Learning+ (*ICML 2025*), 1-23. \n
 - \[12\] [https://arxiv.org/abs/2410.11474 *How Transformers Get Rich: Approximation and Dynamics Analysis*] \n
 *Mingze Wang†*, Ruoxi Yu, Weinan E, Lei Wu. \n
 under review, 1-47. Oct 2024.
