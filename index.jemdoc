@@ -31,9 +31,9 @@ Please feel free to drop me an email if you are interested in collaborating with
 ~~~
 == News
 - \[2024.05\] One paper accepted to ICML 2025. 
-- \[2025.01\] One paper accepted to ICLR 2025 as a {{<font color=red>}}Spotlight{{</font>}} ({{<font color=red>}}top 5.1%{{</font>}}).
+- \[2025.01\] One paper accepted to ICLR 2025 as ac{{<font color=red>}}Spotlight{{</font>}} ({{<font color=red>}}top 5.1%{{</font>}}).
 - \[2025.01\] I am currently an algorithm intern at [https://www.meituan.com/en-US/about-us Meituan] LLM group.
-- \[2024.12\] I received support from the Young Scientists (Ph.D) Fund of the National Natural Science Foundation of China ({{<font color=red>}}¥300,000{{</font>}}).
+- \[2024.12\] I received support from the {{<font color=red>}}Young Scientists (Ph.D) Fund{{</font>}} of the National Natural Science Foundation of China.
 - \[2024.09\] I won the 2024 China National Scholarship ({{<font color=red>}}top 0.2%{{</font>}} in the nation).
 - \[2024.09\] Three papers accepted to NeurIPS 2024.
 - \[2024.05\] One paper accepted to ICML 2024. One paper accepted to ACL 2024.
@@ -51,20 +51,36 @@ I am broadly interested in theory, algorithm and application of machine learning
 Recently, I am dedicated to use theory to design algorithms elegantly. 
 
 My recent research topics are
-- *Deep Learning Theory*: *expressivity*, *optimization*, *generalization*, and *implicit bias*. \[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[8\]\[9\]\[10\]\[11\]\[12\]\[13\]
-- *Transformer* and *Large Language Model*: theory and algorithm, especially in LLM pre-training. \[8\]\[10\]\[12\]\[13\]
-- *Non-convex* and *Convex Optimization*: theory and algorithm. \[2\]\[4\]\[6\]\[10\]\[11\]\[12\]\[13\]\[14\]
-- *CV and NLP*: algorithm and application. \[7\]\[10\]\[13\]
+- *Deep Learning Theory*: *expressivity*, *optimization*, *generalization*, and *implicit bias*. \[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[8\]\[9\]\[10\]\[11\]\[12\]\[13\]\[14\]\[15\]\[16\]\[17\]\[18\]
+- *Transformer* and *Large Language Model*: theory and algorithm, especially in LLM pre-training. \[8\]\[10\]\[12\]\[13\]\[16\]\[17\]\[18\]
+- *Non-convex* and *Convex Optimization*: theory and algorithm. \[2\]\[4\]\[6\]\[10\]\[11\]\[12\]\[13\]\[14\]\[15\]\[18\]
 
 Specifically, my research on deep learning theory and algorithm can be summarized as:
 ~~~
 {}{img_left}{outline.png}{outline}{680 px}{270 px}
 ~~~
 
+Now, my research is supported the +Young Scientists (Ph.D) Fund of the National Natural Science Foundation of China+. (*Analyzing and Improving the Adam Optimizer for Foundation Model
+Training*)
+
+
+
 == Recent Publications and Preprints
 
 \* indicates equal contribution, † means project lead.
 
+- \[18\] [http://arxiv.org/abs/ *GradPower: Improving Language Model Pre-Training Efficiency via Gradients' Power*] \n
+*Mingze Wang\*†*, Jinbo Wang\*, Jiaqi Zhang, Peng Pei, Wei Wang, Xunliang Cai, Weinan E, Lei Wu. \n
+under review. May 2025.
+- \[17\] [http://arxiv.org/abs/ *A Mechanistic Study of Transformer Training Instability under Mixed Precision*] \n
+Shengtao Guo\*, *Mingze Wang\**, Jinbo Wang, Lei Wu. \n
+under review. May 2025.
+- \[16\] [http://arxiv.org/abs/ *On the Expressive Power of Mixture-of-Experts for Structured Complex Tasks*] \n
+*Mingze Wang*†, Weinan E. \n
+under review. May 2025.
+- \[15\] [http://arxiv.org/abs/ *On the Learning Dynamics of Two-layer ReLU Networks with Label Noise SGD*] \n
+Tongcheng Zhang, Zhanpeng Zhou, *Mingze Wang*, Andi Han, Wei Huang, Taiji Suzuki, Junchi Yan. \n
+under review. Feb 2025.
 - \[14\] [http://arxiv.org/abs/ *A Single Global Merging Suffices: Recovering Centralized Learning Performance in Decentralized Learning*] \n
 Tongtian Zhu, Tianyu Zhang, *Mingze Wang*, Zhanpeng Zhou, Can Wang. \n
 +ICLR 2025 Workshop Weight Space Learning+ (*ICLR 2025 - WSL*), 1-23.

@@ -29,12 +29,16 @@
 ~~~
 
 
+
+
+
+
 ~~~
 == News
 - \[2024.05\] 一篇文章被 ICML 2025 接收。
 - \[2025.01\] 一篇文章被 ICLR 2025 接收，并选为 {{<font color=red>}}Spotlight{{</font>}} ({{<font color=red>}}前 5.1%{{</font>}})。
 - \[2025.01\] 我现在是美团的大模型算法实习生。
-- \[2024.12\] 我获得了 "国家自然科学基金青年学生基础研究项目(博士研究生)" ({{<font color=red>}}30万元{{</font>}}) 资助。
+- \[2024.12\] 我获得了 "{{<font color=red>}}国家自然科学基金{{</font>}}青年学生基础研究项目(博士研究生)" 资助。
 - \[2024.09\] 我获得了 "国家奖学金 (博士)" (全国{{<font color=red>}}前 0.2%{{</font>}})。
 - \[2024.09\] 三篇论文被 NeurIPS 2024 接收。
 - \[2024.05\] 一篇论文被 ICML 2024 接收；一篇论文被 ACL 2024 接收。
@@ -52,10 +56,9 @@
 最近，我致力于使用理论来优雅地设计算法。
 
 我最近的研究课题是
-- +深度学习理论+：+表达能力+、+优化理论+、+泛化理论+、+隐式偏好+。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[8\]\[9\]\[10\]\[11\]\[12\]\[13\]
-- +Transformer+和+大型语言模型+：理论与算法，特别在大模型预训练中。\[8\]\[10\]\[12\]\[13\]
-- +非凸+和+凸优化+：理论与算法。\[2\]\[4\]\[6\]\[10\]\[11\]\[12\]\[13\]\[14\]
-- +CV 和 NLP+：算法与应用。\[7\]\[10\]\[13\]
+- +深度学习理论+：+表达能力+、+优化理论+、+泛化理论+、+隐式偏好+。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[8\]\[9\]\[10\]\[11\]\[12\]\[13\]\[14\]\[15\]\[16\]\[17\]\[18\]
+- +Transformer+和+大型语言模型+：理论与算法，特别在大模型预训练中。\[8\]\[10\]\[12\]\[13\]\[16\]\[17\]\[18\]
+- +非凸+和+凸优化+：理论与算法。\[2\]\[4\]\[6\]\[10\]\[11\]\[12\]\[13\]\[14\]\[15\]\[18\]
 
 
 具体来说，我在深度学习理论和算法方面的研究可以被概括为:
@@ -64,10 +67,27 @@
 ~~~
 
 
+我现在的研究获 +国家自然科学基金青年学生基础研究项目（博士研究生）+的资助. (课题：*大模型训练中Adam优化算法的分析和改进*)
+
+
 == 发表论文
 
 \* 表示平等贡献，† 表示主导项目.
 
+
+
+- \[18\] [http://arxiv.org/abs/ *GradPower: Improving Language Model Pre-Training Efficiency via Gradients' Power*] \n
+*Mingze Wang\*†* (王铭泽), Jinbo Wang\* (王锦波), Jiaqi Zhang (张家绮), Peng Pei (裴鹏), Wei Wang (王玮), Xunliang Cai (蔡勋梁), Weinan E (鄂维南), Lei Wu (吴磊). \n
+under review. May 2025.
+- \[17\] [http://arxiv.org/abs/ *A Mechanistic Study of Transformer Training Instability under Mixed Precision*] \n
+Shengtao Guo\* (郭胜涛), *Mingze Wang\** (王铭泽), Jinbo Wang (王锦波), Lei Wu (吴磊). \n
+under review. May 2025.
+- \[16\] [http://arxiv.org/abs/ *On the Expressive Power of Mixture-of-Experts for Structured Complex Tasks*] \n
+*Mingze Wang*† (王铭泽), Weinan E (鄂维南). \n
+under review. May 2025.
+- \[15\] [http://arxiv.org/abs/ *On the Learning Dynamics of Two-layer ReLU Networks with Label Noise SGD*] \n
+Tongcheng Zhang (张桐铖), Zhanpeng Zhou (周展鹏), *Mingze Wang* (王铭泽), Andi Han, Wei Huang (黄伟), Taiji Suzuki, Junchi Yan (严骏驰). \n
+under review. Feb 2025.
 - \[14\] [http://arxiv.org/abs/ *A Single Global Merging Suffices: Recovering Centralized Learning Performance in Decentralized Learning*] \n
 Tongtian Zhu (朱同天), Tianyu Zhang (张天宇), *Mingze Wang* (王铭泽), Zhanpeng Zhou (周展鹏), Can Wang. \n
 +ICLR 2025 Workshop Weight Space Learning+ (*ICLR 2025 - WSL*), 1-23. \n
