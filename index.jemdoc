@@ -68,18 +68,6 @@ Training*)
 
 \* indicates equal contribution, † means project lead.
 
-- \[18\] [http://arxiv.org/abs/ *GradPower: Improving Language Model Pre-Training Efficiency via Gradients' Power*] \n
-*Mingze Wang\*†*, Jinbo Wang\*, Jiaqi Zhang, Peng Pei, Wei Wang, Xunliang Cai, Weinan E, Lei Wu. \n
-under review. May 2025.
-- \[17\] [http://arxiv.org/abs/ *A Mechanistic Study of Transformer Training Instability under Mixed Precision*] \n
-Shengtao Guo\*, *Mingze Wang\**, Jinbo Wang, Lei Wu. \n
-under review. May 2025.
-- \[16\] [http://arxiv.org/abs/ *On the Expressive Power of Mixture-of-Experts for Structured Complex Tasks*] \n
-*Mingze Wang*†, Weinan E. \n
-under review. May 2025.
-- \[15\] [http://arxiv.org/abs/ *On the Learning Dynamics of Two-layer ReLU Networks with Label Noise SGD*] \n
-Tongcheng Zhang, Zhanpeng Zhou, *Mingze Wang*, Andi Han, Wei Huang, Taiji Suzuki, Junchi Yan. \n
-under review. Feb 2025.
 - \[14\] [http://arxiv.org/abs/ *A Single Global Merging Suffices: Recovering Centralized Learning Performance in Decentralized Learning*] \n
 Tongtian Zhu, Tianyu Zhang, *Mingze Wang*, Zhanpeng Zhou, Can Wang. \n
 +ICLR 2025 Workshop Weight Space Learning+ (*ICLR 2025 - WSL*), 1-23.
