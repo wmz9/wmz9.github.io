@@ -69,7 +69,7 @@ Training*)
 \* indicates equal contribution, † means project lead.
 
 - \[18\] [http://arxiv.org/abs/2505.24275 *GradPower: Powering Gradients for Faster Language Model Pre-Training*] \n
-*Mingze Wang\*†*, Jinbo Wang\*, Jiaqi Zhang, Peng Pei, Wei Wang, Xunliang Cai, Weinan E, Lei Wu. \n
+*Mingze Wang\*†*, Jinbo Wang\*, Jiaqi Zhang, Wei Wang, Peng Pei, Xunliang Cai, Weinan E, Lei Wu. \n
 under review, 1-22. May 2025.
 - \[17\] [http://arxiv.org/abs/ *A Mechanistic Study of Transformer Training Instability under Mixed Precision*] \n
 Shengtao Guo\*, *Mingze Wang\**, Jinbo Wang, Lei Wu. \n
