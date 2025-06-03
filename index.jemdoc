@@ -68,15 +68,15 @@ Training*)
 
 \* indicates equal contribution, † means project lead.
 
-- \[18\] [http://arxiv.org/abs/ *GradPower: Improving Language Model Pre-Training Efficiency via Gradients' Power*] \n
+- \[18\] [http://arxiv.org/abs/2505.24275 *GradPower: Powering Gradients for Faster Language Model Pre-Training*] \n
 *Mingze Wang\*†*, Jinbo Wang\*, Jiaqi Zhang, Peng Pei, Wei Wang, Xunliang Cai, Weinan E, Lei Wu. \n
-under review. May 2025.
+under review, 1-22. May 2025.
 - \[17\] [http://arxiv.org/abs/ *A Mechanistic Study of Transformer Training Instability under Mixed Precision*] \n
 Shengtao Guo\*, *Mingze Wang\**, Jinbo Wang, Lei Wu. \n
 under review. May 2025.
-- \[16\] [http://arxiv.org/abs/ *On the Expressive Power of Mixture-of-Experts for Structured Complex Tasks*] \n
+- \[16\] [http://arxiv.org/abs/2505.24205 *On the Expressive Power of Mixture-of-Experts for Structured Complex Tasks*] \n
 *Mingze Wang*†, Weinan E. \n
-under review. May 2025.
+under review, 1-18. May 2025.
 - \[15\] [http://arxiv.org/abs/ *On the Learning Dynamics of Two-layer ReLU Networks with Label Noise SGD*] \n
 Tongcheng Zhang, Zhanpeng Zhou, *Mingze Wang*, Andi Han, Wei Huang, Taiji Suzuki, Junchi Yan. \n
 under review. Feb 2025.
@@ -130,7 +130,7 @@ arXiv preprint, 1-32, June 2022.
 
 - +China National Scholarship+ ({{<font color=red size=+0.5><b>}}top 0.2%{{</b></font>}} in the nation), The Ministry of Education, 2024.
 
-- +Principal Scholarship+, Peking University, 2024.
+- +Principal Scholarship+, Peking University, 2024; 2025.
 
 - +BICMR Mathematical Award for Graduate Students+ ({{<font color=red size=+0.5><b>}}top 1%{{</b></font>}}), Peking University, 2023.
 
