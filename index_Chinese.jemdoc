@@ -83,10 +83,10 @@ under review. May 2025.
 - \[16\] [http://arxiv.org/abs/2505.24205 *On the Expressive Power of Mixture-of-Experts for Structured Complex Tasks*] \n
 *Mingze Wang*† (王铭泽), Weinan E (鄂维南). \n
 under review, 1-18. May 2025.
-- \[15\] [http://arxiv.org/abs/ *On the Learning Dynamics of Two-layer ReLU Networks with Label Noise SGD*] \n
+- \[15\] [https://openreview.net/forum?id=KfsMlrl81a *On the Learning Dynamics of Two-layer ReLU Networks with Label Noise SGD*] \n
 Tongcheng Zhang (张桐铖), Zhanpeng Zhou (周展鹏), *Mingze Wang* (王铭泽), Andi Han, Wei Huang (黄伟), Taiji Suzuki, Junchi Yan (严骏驰). \n
-under review. Feb 2025.
-- \[14\] [http://arxiv.org/abs/ *A Single Global Merging Suffices: Recovering Centralized Learning Performance in Decentralized Learning*] \n
++ICML 2025 Workshop on High-dimensional Learning Dynamics+ (*ICML 2025 - HiLD*).
+- \[14\] [https://openreview.net/forum?id=lWGMbJRCtQ *A Single Global Merging Suffices: Recovering Centralized Learning Performance in Decentralized Learning*] \n
 Tongtian Zhu (朱同天), Tianyu Zhang (张天宇), *Mingze Wang* (王铭泽), Zhanpeng Zhou (周展鹏), Can Wang. \n
 +ICLR 2025 Workshop Weight Space Learning+ (*ICLR 2025 - WSL*), 1-23. \n
 - \[13\] [http://arxiv.org/abs/2502.19002 *The Sharpness Disparity Principle in Transformers for Accelerating Language Model Pre-Training*] \n
@@ -94,7 +94,7 @@ Jinbo Wang\* (王锦波), *Mingze Wang\*†* (王铭泽), Zhanpeng Zhou\* (周�
 +2025 International Conference on Machine Learning+ (*ICML 2025*), 1-23. \n
 - \[12\] [https://arxiv.org/abs/2410.11474 *How Transformers Get Rich: Approximation and Dynamics Analysis*] \n
 *Mingze Wang†* (王铭泽), Ruoxi Yu, Weinan E (鄂维南), Lei Wu (吴磊). \n
-under review, 1-47. Oct 2024.
++ICML 2025 Workshop on High-dimensional Learning Dynamics+ (*ICML 2025 - HiLD*), 1-47.
 - \[11\] [https://arxiv.org/abs/2410.10373 *Sharpness-Aware Minimization Efficiently Selects Flatter Minima Late in Training*] \n
 Zhanpeng Zhou (周展鹏)\*, *Mingze Wang\** (王铭泽), Yuchen Mao, Bingrui Li (李炳睿), Junchi Yan (严骏驰). \n
 +2025 International Conference on Learning Representations+ (*ICLR 2025*) ({{<font color=red size=+0.5><b>}}Spotlight, 前 5.1%{{</b></font>}}), 1-31.
