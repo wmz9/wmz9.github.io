@@ -30,6 +30,7 @@ Please feel free to drop me an email if you are interested in collaborating with
 
 ~~~
 == News
+- \[2024.09\] One paper accepted to NeurIPS 2025 as a {{<font color=red>}}Spotlight{{</font>}}.
 - \[2024.05\] One paper accepted to ICML 2025. 
 - \[2025.01\] One paper accepted to ICLR 2025 as a {{<font color=red>}}Spotlight{{</font>}} ({{<font color=red>}}top 5.1%{{</font>}}).
 - \[2024.12\] I received support from the {{<font color=red>}}Young Scientists (Ph.D) Fund{{</font>}} of the National Natural Science Foundation of China.
@@ -76,7 +77,7 @@ Shengtao Guo, *Mingze Wang*, Jinbo Wang, Lei Wu. \n
 under review. May 2025.
 - \[16\] [http://arxiv.org/abs/2505.24205 *On the Expressive Power of Mixture-of-Experts for Structured Complex Tasks*] \n
 *Mingze Wang*†, Weinan E. \n
-under review, 1-18. May 2025.
++2025 Conference on Neural Information Processing Systems+ (*NeurIPS 2025*) ({{<font color=red size=+0.5><b>}}Spotlight{{</b></font>}}), 1-18.
 - \[15\] [https://openreview.net/forum?id=KfsMlrl81a *On the Learning Dynamics of Two-layer ReLU Networks with Label Noise SGD*] \n
 Tongcheng Zhang, Zhanpeng Zhou, *Mingze Wang*, Andi Han, Wei Huang, Taiji Suzuki, Junchi Yan. \n
 +ICML 2025 Workshop on High-dimensional Learning Dynamics+ (*ICML 2025 - HiLD*).
