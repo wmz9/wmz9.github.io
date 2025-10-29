@@ -46,19 +46,19 @@ Please feel free to drop me an email if you are interested in collaborating with
 
 
 == Research Interests
-I am broadly interested in theory, algorithm and application of machine learning. I am also interested in non-convex and convex optimization. 
+# I am broadly interested in theory, algorithm and application of machine learning. I am also interested in non-convex and convex optimization. 
 
-Recently, I am dedicated to use theory to design algorithms elegantly. 
+# Recently, I am dedicated to use theory to design algorithms elegantly. 
 
 My recent research topics are
 - *Deep Learning Theory*: *expressivity*, *optimization*, *generalization*, *implicit bias*. \[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[8\]\[9\]\[10\]\[11\]\[12\]\[13\]\[14\]\[15\]\[16\]\[17\]\[18\]\[19\]
-- *Transformer* and *Large Language Model*: theory and algorithm, especially in LLM pre-training. \[8\]\[10\]\[12\]\[13\]\[16\]\[17\]\[18\]\[19\]\[20\]
+# - *Transformer* and *Large Language Model*: theory and algorithm, especially in LLM pre-training. \[8\]\[10\]\[12\]\[13\]\[16\]\[17\]\[18\]\[19\]\[20\]
 - *Non-convex* and *Convex Optimization*: theory and algorithm. \[2\]\[4\]\[6\]\[10\]\[11\]\[12\]\[13\]\[14\]\[15\]\[18\]\[19\]
 
-Specifically, my research on deep learning theory and algorithm can be summarized as:
-~~~
-{}{img_left}{outline.png}{outline}{680 px}{270 px}
-~~~
+# Specifically, my research on deep learning theory and algorithm can be summarized as:
+# ~~~
+# {}{img_left}{outline.png}{outline}{680 px}{270 px}
+# ~~~
 
 My current research is supported the +Young Scientists (Ph.D) Fund of the National Natural Science Foundation of China+. (*Analyzing and Improving the Adam Optimizer for Foundation Model
 Training*)
