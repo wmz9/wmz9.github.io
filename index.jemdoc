@@ -85,9 +85,9 @@ under review. May 2025.
 - \[16\] [http://arxiv.org/abs/2505.24205 *On the Expressive Power of Mixture-of-Experts for Structured Complex Tasks*] \n
 \ {{<font color=sienna size=+0.5><b>}}*Mingze Wang†*{{</b></font>}}, Weinan E. \n
 +2025 Conference on Neural Information Processing Systems+ ({{<font color=purple size=+0.5><b>}}*NeurIPS 2025*{{</b></font>}}) ({{<font color=red size=+0.5><b>}}Spotlight, top 3.5%{{</b></font>}}), 1-18.
-- \[15\] [https://openreview.net/forum?id=KfsMlrl81a *On the Learning Dynamics of Two-layer ReLU Networks with Label Noise SGD*] \n
+- \[15\] [https://openreview.net/forum?id=KfsMlrl81a *On the Learning Dynamics of Two-layer Linear Networks with Label Noise SGD*] \n
 Tongcheng Zhang, Zhanpeng Zhou, {{<font color=sienna size=+0.5><b>}}*Mingze Wang*{{</b></font>}}, Andi Han, Wei Huang, Taiji Suzuki, Junchi Yan. \n
-+ICML 2025 Workshop on High-dimensional Learning Dynamics+ ({{<font color=purple size=+0.5><b>}}*ICML 2025 - HiLD*{{</b></font>}}).
++2026 AAAI Conference on Artificial Intelligence+ ({{<font color=purple size=+0.5><b>}}*AAAI 2026*{{</b></font>}}) ({{<font color=red size=+0.5><b>}}Oral{{</b></font>}}).
 - \[14\] [https://openreview.net/forum?id=lWGMbJRCtQ *A Single Global Merging Suffices: Recovering Centralized Learning Performance in Decentralized Learning*] \n
 Tongtian Zhu, Tianyu Zhang, {{<font color=sienna size=+0.5><b>}}*Mingze Wang*{{</b></font>}}, Zhanpeng Zhou, Can Wang. \n
 +ICLR 2025 Workshop on Weight Space Learning+ ({{<font color=purple size=+0.5><b>}}*ICLR 2025 - WSL*{{</b></font>}}), 1-23.
