@@ -14,9 +14,48 @@
   -- Ranking: 1/111 for the first three years during my undergraduate study;
   -- [http://www.math.zju.edu.cn/mathen/ School of Mathematical Sciences], [https://www.zju.edu.cn/ Zhejiang University], Hangzhou, China.
 
+
+== Experience
+
++Foundation Models+
+
+- [https://seed.bytedance.com/zh/ *ByteDance*], *Seed Edge* group, Beijing, China.
+  -- Algorithm Intern (*Topseed intern*) (2026.1-now).
+  -- Frontier research of foundation models.
+
+- [https://www.tencent.com/zh-cn/ *Tencent*], *LLM post-training* group, Beijing, China.
+  -- Algorithm Intern (*Qingyun intern*) (2025.6-2025.7).
+  -- Work on designing verifiable rewards of reinforcement learning for LLM post-training.
+
+- [https://www.meituan.com/en-US/about-us *Meituan*], *LLM pre-training* group, Beijing, China.
+  -- Algorithm Intern (2025.1-2025.5).
+  -- Work on designing stable and faster optimization algorithms for LLM pre-training.
+
+- [https://www.iaar.ac.cn/ *Institute for Advanced Algorithms Research*], *LLM group*, Shanghai, China.
+  -- Algorithm Intern (2023.12-2024.8).
+  -- Work on designing faster optimization algorithms for LLM pre-training.
+
++Quantitative Trading+
+
+- [https://zding.fund/ *Definite Capital Management*], Beijing, China.
+  -- Algorithm Intern (2025.10-2025.12).
+  -- Work on designing better deep learning models and training strategies in quantitative trading.
+
+- [https://www.wizardquant.com/ *Wizard Quant*], Beijing, China.
+  -- Algorithm Intern (2025.8.1).
+  -- Work on designing better machine learning models in quantitative trading.
+
++Others+
+
+- [https://moqi.com.cn/ *Moqi Technology*], Beijing, China.
+  -- Algorithm Intern (2021.9-2022.6).
+  -- Work on privacy-guaranteed image recognition.
+
+
+
 == Selected Awards and Honours
 
-- +ByteDance Scholarship+ (awarded to {{<font color=red size=+0.5><b>}}20{{</b></font>}} students in China and Singapore), 2025.
+- +ByteDance Scholarship+ (awarded to {{<font color=red size=+0.5><b>}}20 students{{</b></font>}} in China and Singapore), 2025.
 
 - +Young Scientists (Ph.D) Fund of the National Natural Science Foundation of China+ ({{<font color=red size=+0.5><b>}}¥300,000{{</b></font>}}), 2024.
 
@@ -36,19 +75,3 @@
 
 - +China National Scholarship+ ({{<font color=red size=+0.5><b>}}top 0.2%{{</b></font>}}), The Ministry of Education, 2019.
   
-== Experience
-
-- Algorithm Intern (2025.6-2025.7).
-  -- [https://www.tencent.com/zh-cn/ Tencent], Beijing, China;
-  -- Work on designing verifiable rewards of reinforcement learning for LLM post-training.
-
-- Algorithm Intern (2025.1-2025.5).
-  -- [https://www.meituan.com/en-US/about-us Meituan], Beijing, China;
-  -- Work on designing stable and faster optimization algorithms for LLM pre-training.
-
-- Algorithm Intern (2023.12-2024.8).
-  -- [https://www.iaar.ac.cn/ Institute for Advanced Algorithms Research], Shanghai, China;
-  -- Work on accelarating LLM pre-training.
-
-- Algorithm Intern (2021.9-2022.6).
-  -- [https://moqi.com.cn/ Moqi Technology], Beijing, China.

@@ -8,46 +8,45 @@ I am broadly interested in theory, algorithm and application of machine learning
 Recently, I am dedicated to to use theory to design algorithms elegantly. 
 
 Specifically, my recent research topics are
-- *Deep Learning Theory*: theory and theory-inspired algorithms.\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[8\]\[9\]\[10\]\[11\]\[12\]\[13\]\[14\]\[17\]\[18\]\[19\]
+- *Deep Learning Theory*: theory and theory-inspired algorithms.\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[8\]\[9\]\[10\]\[11\]\[12\]\[13\]\[14\]\[17\]\[18\]\[19\]\[20\]
 -- +Expressivity+: Exploring the expressive power of Transformers through the lens of approximation theory \[8\]\[12\]; the expressivity of the expressivity of mixture-of-experts models (MoE) \[16\].
 -- +Optimization+: When training neural networks, why can optimization algorithms converge to global minima? \[2\]\[4\]\[12\]
 -- +Implicit Bias+: When training neural networks, why can optimization algorithms converge to global minima with favorable generalization ability (even without any explicit regularization)? Such as flat-minima-bias \[3\]\[5\]\[9\]\[10\]\[11\] and max-margin-bias aspects \[4\]\[6\].
 -- +Generalization+: How to measure the generalization ability of neural networks. \[1\]
--- +Algorithm Design+: For machine learning problems, design new provable optimization algorithms which can which can (i) converge faster \[10\]\[13\]\[17\]\[18\]\[19\]; (ii) generalize better \[6\]\[10\].
+-- +Algorithm Design+: For machine learning problems, design new provable optimization algorithms which can which can (i) converge faster \[10\]\[13\]\[17\]\[18\]\[19\]\[20\]; (ii) generalize better \[6\]\[10\].
 - *Transformer and Large Language Model*: theory and algorithm, especially in LLM pre-training. \[8\]\[10\]\[12\]\[13\]\[17\]\[18\]\[19\]\[20\]
 -- +Expressive Power+: The expressive power and mechanisms of Transformer \[8\]\[12\]; the expressivity of mixture-of-experts models (MoE)\[16\]; the mechanisms of in-context learning\[12\].
 -- +Algorithm Design+: Design provable faster optimizers for training LLMs \[10\]\[13\]\[17\]\[18\]\[19\]\[20\]; design more efficient model architectures.
-- *Non-convex and Convex Optimization*: theory and algorithm. \[2\]\[4\]\[6\]\[10\]\[11\]\[12\]\[13\]\[14\]\[17\]\[18\]\[19\]
+- *Non-convex and Convex Optimization*: theory and algorithm. \[2\]\[4\]\[6\]\[10\]\[11\]\[12\]\[13\]\[14\]\[17\]\[18\]\[19\]\[20\]
 -- +Convex Optimization in ML+. \[6\]
--- +Non-convex Optimization in ML+. \[2\]\[4\]\[10\]\[11\]\[12\]\[13\]\[14\]\[17\]\[18\]\[19\]
--- +Algorithm Design+: Design provable faster / more stable optimizers for training neural networks \[10\]\[13\]\[17\]\[18\]; accelerate the convergence for the problems with specific structure \[6\].
+-- +Non-convex Optimization in ML+. \[2\]\[4\]\[10\]\[11\]\[12\]\[13\]\[14\]\[17\]\[18\]\[19\]\[20\]
+-- +Algorithm Design+: Design provable faster / more stable optimizers for training neural networks \[10\]\[13\]\[17\]\[18\]\[19\]\[20\]; accelerate the convergence for the problems with specific structure \[6\].
 
 
 == Recent Publications and Preprints
 
 \* indicates equal contribution, † means project lead.
-
-- \[20\] [https://arxiv.org/pdf/2510.03222 *Low-probability Tokens Sustain Exploration in Reinforcement Learning with Verifiable Reward*] \n
+- \[20\] [http://arxiv.org/abs/ *Accelerating LLM Pre-training through Flat-Direction Dynamics Enhancement*] \n
+Shuchen Zhu, Rizhen Hu, {{<font color=sienna size=+0.5><b>}}*Mingze Wang†*{{</b></font>}}, Mou Sun, Xue Wang, Kun Yuan, Zaiwen Wen. \n
+under review, arXiv preprint, 1-43. Feb 2026.
+- \[19\] [https://arxiv.org/pdf/2510.03222 *Low-probability Tokens Sustain Exploration in Reinforcement Learning with Verifiable Reward*] \n
 Guanhua Huang\*, Tingqiang Xu\*, {{<font color=sienna size=+0.5><b>}}*Mingze Wang*{{</b></font>}}, Qi Yi, Xue Gong, Siheng Li, Ruibin Xiong, Kejiao Li, Yuhao Jiang, Bo Zhou. \n
 under review, arXiv preprint, 1-21. Sep 2025.
-- \[19\] [http://arxiv.org/abs/ *Towards Revealing the Effect of Batch Size Scheduling on Pre-training*] \n
+- \[18\] [http://arxiv.org/abs/ *Towards Revealing the Effect of Batch Size Scheduling on Pre-training*] \n
 Jinbo Wang\*, Binghui Li\*, Zhanpeng Zhou, {{<font color=sienna size=+0.5><b>}}*Mingze Wang*{{</b></font>}}, Yuxuan Sun, Jiaqi Zhang, Xunliang Cai, Lei Wu. \n
-under review. Sep 2025.
-- \[18\] [http://arxiv.org/abs/2505.24275 *GradPower: Powering Gradients for Faster Language Model Pre-Training*] \n
++2026 International Conference on Learning Representations+ ({{<font color=purple size=+0.5><b>}}*ICLR 2026*{{</b></font>}}).
+- \[17\] [http://arxiv.org/abs/2505.24275 *GradPower: Powering Gradients for Faster Language Model Pre-Training*] \n
 \ {{<font color=sienna size=+0.5><b>}}*Mingze Wang\*†*{{</b></font>}}, Jinbo Wang\*, Jiaqi Zhang, Wei Wang, Peng Pei, Xunliang Cai, Weinan E, Lei Wu. \n
 under review, arXiv preprint, 1-22. May 2025.
-- \[17\] [http://arxiv.org/abs/ *A Mechanistic Study of Transformer Training Instability under Mixed Precision*] \n
-Shengtao Guo, {{<font color=sienna size=+0.5><b>}}*Mingze Wang*{{</b></font>}}, Jinbo Wang, Lei Wu. \n
-under review. May 2025.
 - \[16\] [http://arxiv.org/abs/2505.24205 *On the Expressive Power of Mixture-of-Experts for Structured Complex Tasks*] \n
 \ {{<font color=sienna size=+0.5><b>}}*Mingze Wang†*{{</b></font>}}, Weinan E. \n
 +2025 Conference on Neural Information Processing Systems+ ({{<font color=purple size=+0.5><b>}}*NeurIPS 2025*{{</b></font>}}) ({{<font color=red size=+0.5><b>}}Spotlight, top 3.5%{{</b></font>}}), 1-18.
-- \[15\] [https://openreview.net/forum?id=KfsMlrl81a *On the Learning Dynamics of Two-layer ReLU Networks with Label Noise SGD*] \n
+- \[15\] [https://openreview.net/forum?id=KfsMlrl81a *On the Learning Dynamics of Two-layer Linear Networks with Label Noise SGD*] \n
 Tongcheng Zhang, Zhanpeng Zhou, {{<font color=sienna size=+0.5><b>}}*Mingze Wang*{{</b></font>}}, Andi Han, Wei Huang, Taiji Suzuki, Junchi Yan. \n
 +2026 AAAI Conference on Artificial Intelligence+ ({{<font color=purple size=+0.5><b>}}*AAAI 2026*{{</b></font>}}) ({{<font color=red size=+0.5><b>}}Oral{{</b></font>}}).
 - \[14\] [https://openreview.net/forum?id=lWGMbJRCtQ *A Single Global Merging Suffices: Recovering Centralized Learning Performance in Decentralized Learning*] \n
 Tongtian Zhu, Tianyu Zhang, {{<font color=sienna size=+0.5><b>}}*Mingze Wang*{{</b></font>}}, Zhanpeng Zhou, Can Wang. \n
-+ICLR 2025 Workshop on Weight Space Learning+ ({{<font color=purple size=+0.5><b>}}*ICLR 2025 - WSL*{{</b></font>}}), 1-23.
++2026 International Conference on Learning Representations+ ({{<font color=purple size=+0.5><b>}}*ICLR 2026*{{</b></font>}}) ({{<font color=red size=+0.5><b>}}Oral, top 1.2%{{</b></font>}}), 1-23.
 - \[13\] [http://arxiv.org/abs/2502.19002 *The Sharpness Disparity Principle in Transformers for Accelerating Language Model Pre-Training*] \n
 Jinbo Wang\*, {{<font color=sienna size=+0.5><b>}}*Mingze Wang\*†*{{</b></font>}}, Zhanpeng Zhou\*, Junchi Yan, Weinan E, Lei Wu. \n
 +2025 International Conference on Machine Learning+ ({{<font color=purple size=+0.5><b>}}*ICML 2025*{{</b></font>}}), 1-23. \n
