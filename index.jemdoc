@@ -55,7 +55,7 @@ Recently, I am dedicated to use theory to design algorithms elegantly.
 My recent research topics are
 - *Deep Learning Theory*: *expressivity*, *optimization*, *generalization*, *implicit bias*. \[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[8\]\[9\]\[10\]\[11\]\[12\]\[13\]\[14\]\[15\]\[16\]\[17\]\[18\]\[19\]\[20\]
 - *Transformer* and *Large Language Model*: theory and algorithm, especially in LLM pre-training. \[8\]\[10\]\[12\]\[13\]\[16\]\[17\]\[18\]\[19\]\[20\]
-- *Non-convex* and *Convex Optimization*: theory and algorithm. \[2\]\[4\]\[6\]\[10\]\[11\]\[12\]\[13\]\[14\]\[15\]\[18\]\[19\]
+- *Non-convex* and *Convex Optimization*: theory and algorithm. \[2\]\[4\]\[6\]\[10\]\[11\]\[12\]\[13\]\[14\]\[15\]\[18\]\[19\]\[20\]
 
 Specifically, my research on deep learning theory and algorithm can be summarized as:
 ~~~
@@ -77,7 +77,7 @@ under review, arXiv preprint, 1-43. Feb 2026.
 - \[19\] [https://arxiv.org/pdf/2510.03222 *Low-probability Tokens Sustain Exploration in Reinforcement Learning with Verifiable Reward*] \n
 Guanhua Huang\*, Tingqiang Xu\*, {{<font color=sienna size=+0.5><b>}}*Mingze Wang*{{</b></font>}}, Qi Yi, Xue Gong, Siheng Li, Ruibin Xiong, Kejiao Li, Yuhao Jiang, Bo Zhou. \n
 under review, arXiv preprint, 1-21. Sep 2025.
-- \[18\] [https://arxiv.org/abs/2602.14208 *Towards Revealing the Effect of Batch Size Scheduling on Pre-training*] \n
+- \[18\] [https://arxiv.org/abs/2602.14208 *Fast Catch-Up, Late Switching: Optimal Batch Size Scheduling via Functional Scaling Laws*] \n
 Jinbo Wang\*, Binghui Li\*, Zhanpeng Zhou, {{<font color=sienna size=+0.5><b>}}*Mingze Wang*{{</b></font>}}, Yuxuan Sun, Jiaqi Zhang, Xunliang Cai, Lei Wu. \n
 +2026 International Conference on Learning Representations+ ({{<font color=purple size=+0.5><b>}}*ICLR 2026*{{</b></font>}}).
 - \[17\] [http://arxiv.org/abs/2505.24275 *GradPower: Powering Gradients for Faster Language Model Pre-Training*] \n

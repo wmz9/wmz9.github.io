@@ -55,9 +55,9 @@
 最近，我致力于使用理论来优雅地设计算法。
 
 我最近的研究课题是
-- +深度学习理论+：+表达能力+、+优化理论+、+泛化理论+、+隐式偏好+。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[8\]\[9\]\[10\]\[11\]\[12\]\[13\]\[14\]\[15\]\[16\]\[17\]\[18\]\[19\]
+- +深度学习理论+：+表达能力+、+优化理论+、+泛化理论+、+隐式偏好+。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[8\]\[9\]\[10\]\[11\]\[12\]\[13\]\[14\]\[15\]\[16\]\[17\]\[18\]\[19\]\[20\]
 - +Transformer+和+大型语言模型+：理论与算法，特别在大模型预训练中。\[8\]\[10\]\[12\]\[13\]\[16\]\[17\]\[18\]\[19\]\[20\]
-- +非凸+和+凸优化+：理论与算法。\[2\]\[4\]\[6\]\[10\]\[11\]\[12\]\[13\]\[14\]\[15\]\[18\]\[19\]
+- +非凸+和+凸优化+：理论与算法。\[2\]\[4\]\[6\]\[10\]\[11\]\[12\]\[13\]\[14\]\[15\]\[18\]\[19\]\[20\]
 
 
 具体来说，我在深度学习理论和算法方面的研究可以被概括为:
@@ -78,7 +78,7 @@ under review, arXiv preprint, 1-43. Feb 2026.
 - \[19\] [https://arxiv.org/pdf/2510.03222 *Low-probability Tokens Sustain Exploration in Reinforcement Learning with Verifiable Reward*] \n
 Guanhua Huang\* (黄冠华), Tingqiang Xu\* (许庭强), {{<font color=sienna size=+0.5><b>}}*Mingze Wang*{{</b></font>}} (王铭泽), Qi Yi, Xue Gong, Siheng Li, Ruibin Xiong, Kejiao Li, Yuhao Jiang, Bo Zhou (周波). \n
 under review, arXiv preprint, 1-21. Sep 2025.
-- \[18\] [https://arxiv.org/abs/2602.14208 *Towards Revealing the Effect of Batch Size Scheduling on Pre-training*] \n
+- \[18\] [https://arxiv.org/abs/2602.14208 *Fast Catch-Up, Late Switching: Optimal Batch Size Scheduling via Functional Scaling Laws*] \n
 Jinbo Wang\* (王锦波), Binghui Li\* (李柄辉), Zhanpeng Zhou (周展鹏), {{<font color=sienna size=+0.5><b>}}*Mingze Wang*{{</b></font>}} (王铭泽), Yuxuan Sun, Jiaqi Zhang (张家绮), Xunliang Cai (蔡勋梁), Lei Wu (吴磊). \n
 under review. Sep 2025.
 - \[17\] [http://arxiv.org/abs/2505.24275 *GradPower: Powering Gradients for Faster Language Model Pre-Training*] \n
