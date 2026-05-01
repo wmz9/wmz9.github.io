@@ -30,6 +30,7 @@ Please feel free to drop me an email if you are interested in collaborating with
 
 ~~~
 == News
+- \[2026.04\] One paper accepted to ICML 2026. One paper accepted to ACL 2026.
 - \[2026.01\] Two paper accepted to ICLR 2026. One of them was selected for an {{<font color=red>}}Oral{{</font>}} ({{<font color=red>}}top 1.2%{{</font>}}).
 - \[2025.11\] I won the 2025 ByteDance Scholarship (awarded to {{<font color=red>}}20 students{{</font>}} in China and Singapore).
 - \[2025.09\] One paper accepted to NeurIPS 2025 as a {{<font color=red>}}Spotlight{{</font>}} ({{<font color=red>}}top 3.5%{{</font>}}).
@@ -76,13 +77,13 @@ Shuchen Zhu, Rizhen Hu, {{<font color=sienna size=+0.5><b>}}*Mingze Wang†*{{</
 under review, arXiv preprint, 1-43. Feb 2026.
 - \[19\] [https://arxiv.org/pdf/2510.03222 *Low-probability Tokens Sustain Exploration in Reinforcement Learning with Verifiable Reward*] \n
 Guanhua Huang\*, Tingqiang Xu\*, {{<font color=sienna size=+0.5><b>}}*Mingze Wang*{{</b></font>}}, Qi Yi, Xue Gong, Siheng Li, Ruibin Xiong, Kejiao Li, Yuhao Jiang, Bo Zhou. \n
-under review, arXiv preprint, 1-21. Sep 2025.
++2026 Annual Meeting of the Association for Computational Linguistics+ ({{<font color=purple size=+0.5><b>}}*ACL 2026, Findings*{{</b></font>}}) 1-21.
 - \[18\] [https://arxiv.org/abs/2602.14208 *Fast Catch-Up, Late Switching: Optimal Batch Size Scheduling via Functional Scaling Laws*] \n
 Jinbo Wang\*, Binghui Li\*, Zhanpeng Zhou, {{<font color=sienna size=+0.5><b>}}*Mingze Wang*{{</b></font>}}, Yuxuan Sun, Jiaqi Zhang, Xunliang Cai, Lei Wu. \n
 +2026 International Conference on Learning Representations+ ({{<font color=purple size=+0.5><b>}}*ICLR 2026*{{</b></font>}}).
 - \[17\] [http://arxiv.org/abs/2505.24275 *GradPower: Powering Gradients for Faster Language Model Pre-Training*] \n
-\ {{<font color=sienna size=+0.5><b>}}*Mingze Wang\*†*{{</b></font>}}, Jinbo Wang\*, Jiaqi Zhang, Wei Wang, Peng Pei, Xunliang Cai, Weinan E, Lei Wu. \n
-under review, arXiv preprint, 1-22. May 2025.
+\ {{<font color=sienna size=+0.5><b>}}Jinbo Wang\*, *Mingze Wang\*†*{{</b></font>}}, Jiaqi Zhang, Wei Wang, Peng Pei, Xunliang Cai, Weinan E, Lei Wu. \n
++2026 International Conference on Machine Learning+ ({{<font color=purple size=+0.5><b>}}*ICML 2026*{{</b></font>}}), 1-22.
 - \[16\] [http://arxiv.org/abs/2505.24205 *On the Expressive Power of Mixture-of-Experts for Structured Complex Tasks*] \n
 \ {{<font color=sienna size=+0.5><b>}}*Mingze Wang†*{{</b></font>}}, Weinan E. \n
 +2025 Conference on Neural Information Processing Systems+ ({{<font color=purple size=+0.5><b>}}*NeurIPS 2025*{{</b></font>}}) ({{<font color=red size=+0.5><b>}}Spotlight, top 3.5%{{</b></font>}}), 1-18.
