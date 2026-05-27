@@ -26,12 +26,12 @@ Specifically, my recent research topics are
 == Recent Publications and Preprints
 
 \* indicates equal contribution, † means project lead.
-- \[22\] [https://arxiv.org/abs/ *More Expressive Feedforward Layers: Part I. Token-Adaptive Mixing of Activations*] \n
+- \[22\] [http://arxiv.org/abs/2605.26895 *Negligible in Size, Significant in Effect: On Scale Vectors in Large Language Models*] \n
+\ {{<font color=sienna size=+0.5><b>}}*Mingze Wang†*{{</b></font>}}, Shuchen Zhu, Yuxin Fang, Binghui Li, Kai Shen, Shu Zhong. \n
+under review, 1-36. May 2026.
+- \[21\] [http://arxiv.org/abs/2605.26647 *More Expressive Feedforward Layers: Part I. Token-Adaptive Mixing of Activations*] \n
 \ {{<font color=sienna size=+0.5><b>}}*Mingze Wang†*{{</b></font>}}, Jinbo Wang, Yikuan Xia, Kai Shen, Shu Zhong. \n
-under review, 1-30. May 2026.
-- \[21\] [https://arxiv.org/abs/ *Negligible in Size, Significant in Effect: On Scale Vectors in Large Language Models*] \n
-\ {{<font color=sienna size=+0.5><b>}}*Mingze Wang†*{{</b></font>}}, Shuchen Zhu, Binghui Li, Yuxin Fang, Kai Shen, Shu Zhong. \n
-under review, 1-34. May 2026.
+under review, 1-31. May 2026.
 - \[20\] [https://arxiv.org/abs/2602.22681 *Accelerating LLM Pre-training through Flat-Direction Dynamics Enhancement*] \n
 Shuchen Zhu, Rizhen Hu, {{<font color=sienna size=+0.5><b>}}*Mingze Wang†*{{</b></font>}}, Mou Sun, Xue Wang, Kun Yuan, Zaiwen Wen. \n
 under review, arXiv preprint, 1-43. Feb 2026.
