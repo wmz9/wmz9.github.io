@@ -54,9 +54,16 @@ I am broadly interested in theory, algorithm and application of machine learning
 Recently, I am dedicated to use theory to design algorithms elegantly. 
 
 My recent research topics are
-- *Deep Learning Theory*: *expressivity*, *optimization*, *generalization*, *implicit bias*. \[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[8\]\[9\]\[10\]\[11\]\[12\]\[13\]\[14\]\[15\]\[16\]\[17\]\[18\]\[19\]\[20\]\[21\]\[22\]
-- *Transformer* and *Large Language Model*: theory and algorithm, especially in LLM pre-training. \[8\]\[10\]\[12\]\[13\]\[16\]\[17\]\[18\]\[19\]\[20\]\[21\]\[22\]
-- *Non-convex* and *Convex Optimization*: theory and algorithm. \[2\]\[4\]\[6\]\[10\]\[11\]\[12\]\[13\]\[14\]\[15\]\[18\]\[19\]\[20\]
+- *Deep Learning Theory*:
+  -- *Expressivity* and *approximation power*. Understanding the expressive power and working mechanisms of Transformers and MoEs.
+  -- *Optimization* and *training dynamics*. Analyzing multi-phase optimization dynamics and rich nonlinear behaviors of FFNs and Transformers.
+  -- *Generalization* and *implicit bias*. Investigating the selection mechanism of generalizable minima in training over-parameterized neural networks.
+- *Deep Learning Algorithm*: 
+  -- *Faster convergence*. Accelerating slow dynamics along flat directions while controlling fast fluctuations along sharp directions in LLM pre-training.
+  -- *Better generalization*. Enhancing the flatness bias or large-margin bias of over-parameterized neural networks and optimziers.
+  -- *More expressive model*. Improving neural network expressivity with negligible overhead, while accounting for interactions with optimization.
+- *Transformer* and *Large Language Model*: theory and algorithm, with a particular focus on LLM pre-training.
+- *Non-convex* and *Convex Optimization*: theory and algorithm.
 
 Specifically, my research on deep learning theory and algorithm can be summarized as:
 ~~~
