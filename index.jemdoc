@@ -5,30 +5,37 @@
 ~~~
 {}{img_left}{mingzewang.jpeg}{Mingze Wang}{171 px}{200 px}
 Mingze Wang (王铭泽) \n
-Ph.D. Candidate
 
-[https://www.math.pku.edu.cn/ School of Mathematical Sciences] \n
-[https://english.pku.edu.cn/ Peking University]
+[https://www.deepseek.com/ DeepSeek AI], Backbone group
 
-210, Jingyuan Building \#6 (静园六院), Peking University\n
-210, Building \#20 (20楼), Peking University\n
-Beijing, China, 100084\n
+Ph.D. graduate at [https://english.pku.edu.cn/ Peking University]
 
-Email: mingzewang.math \[at\] gmail.com / wangmingze.999 \[at\] bytedance.com \n
 
-\[[https://scholar.google.com/citations?user=CkU47X0AAAAJ&hl=zh-CN&oi=ao Google Scholar]\] ~~~ \[[cv.pdf CV]\]\n
+# Ph.D. Graduate
+# [https://www.math.pku.edu.cn/ School of Mathematical Sciences] \n
+
+# 210, Jingyuan Building \#6 (静园六院), Peking University\n
+# 210, Building \#20 (20楼), Peking University\n
+# Beijing, China, 100084\n
+
+Email: mingzewang.math \[at\] gmail.com / mingzewang \[at\] deepseek.com \n
+
+\[[https://scholar.google.com/citations?user=CkU47X0AAAAJ&hl=zh-CN&oi=ao Google Scholar]\] 
+# ~~~ \[[cv.pdf CV]\]\n
 ~~~
 
 
 == About me
-I am a final-year Ph.D candidate in Computational Mathematics, [https://www.math.pku.edu.cn/ School of Mathematical Sciences], [https://english.pku.edu.cn/ Peking University] (2021-Present). I am very fortunate to be advised by [https://web.math.princeton.edu/~weinan/ Prof. Weinan E]. Prior to that, I received my B.S. degree in Pure and Applied Mathematics (ranking 1/111 for the first three years during my undergraduate study) from [http://www.math.zju.edu.cn/mathen/ School of Mathematical Sciences], [https://www.zju.edu.cn/ Zhejiang University], Hangzhou, China in 2021.
+I am a Ph.D graduate at Computational Mathematics, [https://www.math.pku.edu.cn/ School of Mathematical Sciences], [https://english.pku.edu.cn/ Peking University] (2026). I am very fortunate to be advised by [https://web.math.princeton.edu/~weinan/ Prof. Weinan E]. Prior to that, I received my B.S. degree in Pure and Applied Mathematics (ranking 1/111 for the first three years during my undergraduate study) from [http://www.math.zju.edu.cn/mathen/ School of Mathematical Sciences], [https://www.zju.edu.cn/ Zhejiang University], Hangzhou, China in 2021.
 
-~~~
-Please feel free to drop me an email if you are interested in collaborating with me.
-~~~
+I am currently a researcher at [https://www.deepseek.com/ DeepSeek AI], Backbone group. 
+
+# ~~~
+# Please feel free to drop me an email if you are interested in collaborating with me.
+# ~~~
 
 == Research Interests
-I am broadly interested in theory, algorithm and application of machine learning. I am also interested in non-convex and convex optimization. Recently, I am dedicated to use theory to design algorithms elegantly. 
+I am broadly interested in theory, algorithm and application of machine learning. I am also interested in non-convex and convex optimization. Recently, I am dedicated to developing theoretically grounded and elegant algorithms to address challenges in foundation models or quantitative trading.
 
 My recent research topics are
 - *Deep Learning Theory*:
@@ -37,8 +44,8 @@ My recent research topics are
   -- *Generalization* and *implicit bias*. Investigating the selection mechanism of generalizable minima in training over-parameterized neural networks.
 - *Deep Learning Algorithm*: 
   -- *Faster convergence*. Accelerating slow dynamics along flat directions while controlling fast fluctuations along sharp directions in LLM pre-training.
-  -- *Better generalization*. Enhancing the flatness bias or large-margin bias of over-parameterized neural networks and optimziers.
   -- *More expressive model*. Improving neural network expressivity with negligible overhead, while accounting for interactions with optimization.
+  -- *Better generalization*. Enhancing the flatness bias or large-margin bias of over-parameterized neural networks and optimziers.
 - *Transformer* and *Large Language Model*: theory and algorithm, with a particular focus on LLM pre-training.
 - *Non-convex* and *Convex Optimization*: theory and algorithm.
 
@@ -149,30 +156,34 @@ arXiv preprint, 1-32, June 2022.
 
 +Foundation Models+
 
-- [https://seed.bytedance.com/zh/ *ByteDance*], *Seed Edge* group, Beijing, China.
-  -- Algorithm Intern (+Topseed intern+) (2026.2-now).
+- [https://www.deepseek.com/ *DeepSeek AI*], *Backbone* group, Beijing, China
+  -- Researcher (2026.7-now).
+  -- Frontier research of model architecture and optimization for foundation models.
+
+- [https://seed.bytedance.com/zh/ *ByteDance Seed*], *Edge* group, Beijing, China.
+  -- Research Intern (Topseed intern) (2026.2-2026.6).
   -- Frontier research of foundation models.
 
-- [https://www.tencent.com/zh-cn/ *Tencent*], *LLM post-training* group, Beijing, China.
-  -- Algorithm Intern (+Qingyun intern+) (2025.6-2025.7).
+- [https://www.tencent.com/zh-cn/ *Tencent Hunyuan*], *Post-training* group, Beijing, China.
+  -- Research Intern (Qingyun intern) (2025.6-2025.7).
   -- Work on designing verifiable rewards of reinforcement learning for LLM post-training.
 
 - [https://www.meituan.com/en-US/about-us *Meituan*], *LLM pre-training* group, Beijing, China.
-  -- Algorithm Intern (2025.1-2025.5).
+  -- Research Intern (2025.1-2025.5).
   -- Work on designing stable and faster optimization algorithms for LLM pre-training.
 
 - [https://www.iaar.ac.cn/ *Institute for Advanced Algorithms Research*], *LLM group*, Shanghai, China.
-  -- Algorithm Intern (2023.12-2024.8).
+  -- Research Intern (2023.12-2024.8).
   -- Work on designing faster optimization algorithms for LLM pre-training.
 
 +Quantitative Trading+
 
 - [https://zding.fund/ *Definite Capital Management*], Beijing, China.
-  -- Algorithm Intern (2025.10-2025.12).
+  -- Research Intern (2025.10-2025.12).
   -- Work on designing better deep learning models and training strategies in quantitative trading.
 
 - [https://www.wizardquant.com/ *Wizard Quant*], Beijing, China.
-  -- Algorithm Intern (2025.8.1).
+  -- Research Intern (2025.8.1).
 
 
 == Service and Teaching

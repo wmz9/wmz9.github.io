@@ -5,32 +5,39 @@
 ~~~
 {}{img_left}{mingzewang.jpeg}{王铭泽}{171 px}{200 px}
 王铭泽 (Mingze Wang) \n
-博士候选人
 
-[https://english.pku.edu.cn/ 北京大学] [https://www.math.pku.edu.cn/ 数学科学学院] \n
+[https://www.deepseek.com/ DeepSeek AI], Backbone 组
 
-北京大学 静园六院 210 室\n
-北京大学 20 楼 210 室\n
-中国 北京, 100084\n
+[https://english.pku.edu.cn/ 北京大学] 博士毕业生
 
-电子邮箱: mingzewang.math \[at\] gmail.com / wangmingze.999 \[at\] bytedance.com \n
+# [https://www.math.pku.edu.cn/ 数学科学学院] \n
 
-\[[https://scholar.google.com/citations?user=CkU47X0AAAAJ&hl=zh-CN&oi=ao Google Scholar]\] ~~~ \[[cv.pdf 简历]\]\n
+# 北京大学 静园六院 210 室\n
+# 北京大学 20 楼 210 室\n
+# 中国 北京, 100084\n
+
+电子邮箱: mingzewang.math \[at\] gmail.com / mingzewang \[at\] deepseek.com \n
+
+\[[https://scholar.google.com/citations?user=CkU47X0AAAAJ&hl=zh-CN&oi=ao Google Scholar]\]
+# ~~~ \[[cv.pdf 简历]\]\n
 ~~~
 
 
 == 关于我
-我是[https://english.pku.edu.cn/ 北京大学][https://www.math.pku.edu.cn/ 数学科学学院]计算数学专业的最后一年直博生 (2021-现在)。 
+我是[https://english.pku.edu.cn/ 北京大学][https://www.math.pku.edu.cn/ 数学科学学院]计算数学专业的博士毕业生 (2026)。 
 我非常荣幸能得到[https://web.math.princeton.edu/~weinan/ 鄂维南]院士的指导。
 在此之前，我于 2021 年在[https://www.zju.edu.cn/ 浙江大学][http://www.math.zju.edu.cn/mathen/ 数学科学学院]获得了数学与应用数学学士学位 (本科前三年排名为 1/111)。
 
-~~~
-如果您有兴趣与我合作，请随时给我发送电子邮件。
-~~~
+我是 [https://www.deepseek.com/ DeepSeek AI] Backbone 组的研究员。
+
+
+# ~~~
+# 如果您有兴趣与我合作，请随时给我发送电子邮件。
+# ~~~
 
 
 == 研究兴趣
-我对机器学习的理论、算法和应用有着广泛的兴趣。我对非凸和凸优化也很感兴趣。最近，我致力于使用理论来优雅地设计算法。
+我对机器学习的理论、算法和应用有着广泛的兴趣。我对非凸和凸优化也很感兴趣。最近，我致力于设计有理论保证且优雅的算法，来解决大模型或量化交易场景中的挑战。
 
 我最近的研究课题是
 
@@ -41,8 +48,8 @@
 
 - +深度学习算法+:
   -- +更快的收敛+. 在 LLM 预训练中，加速沿平坦方向的慢动力学，同时控制沿陡峭方向的快速震动。
-  -- +更好的泛化+. 增强过参数化神经网络与优化器的平坦性偏置或大间隔偏置。
   -- +更具表达力的模型+. 以极低的额外开销提升神经网络的表达力，并兼顾其与优化过程之间的相互作用。
+  -- +更好的泛化+. 增强过参数化神经网络与优化器的平坦性偏置或大间隔偏置。
 
 - +Transformer+和+大型语言模型+：理论与算法，特别在大模型预训练中。
 - +非凸+和+凸优化+：理论与算法。
@@ -156,30 +163,34 @@ arXiv preprint, 1-32, June 2022.
 
 +大模型+
 
-- [https://seed.bytedance.com/zh/ *字节跳动*], *Seed Edge* 组, 北京, 中国.
-  -- Algorithm Intern (+Topseed 实习生+) (2026.2-now).
+- [https://www.deepseek.com/ *DeepSeek AI*], *Backbone* 组, 北京, 中国
+  -- 研究员 (2026.7-now).
+  -- 大模型的模型结构和优化的前沿探索.
+
+- [https://seed.bytedance.com/zh/ *字节跳动 Seed*], *Edge* 组, 北京, 中国.
+  -- Algorithm Intern (Topseed 计划) (2026.2-2026.6).
   -- 大模型前沿探索。
 
-- [https://www.tencent.com/zh-cn/ *腾讯*], *LLM post-training* 组, 北京, 中国.
-  -- Algorithm Intern (+青云实习生+) (2025.6-2025.7).
+- [https://www.tencent.com/zh-cn/ *腾讯混元*], *Post-training* 组, 北京, 中国.
+  -- 研究实习生 (青云计划) (2025.6-2025.7).
   -- 设计 LLM 训练后强化学习的可验证奖励。
 
 - [https://www.meituan.com/en-US/about-us *美团*], *LLM pre-training* 组, 北京, 中国.
-  -- Algorithm Intern (2025.1-2025.5).
+  -- 研究实习生 (2025.1-2025.5).
   -- 设计稳定的、收敛性能更好的 LLM 预训练优化算法。
 
 - [https://www.iaar.ac.cn/ *上海算法创新研究院*], *LLM group*, 上海, 中国.
-  -- Algorithm Intern (2023.12-2024.8).
+  -- 研究实习生 (2023.12-2024.8).
   -- 设计收敛性能更好的 LLM 预训练优化算法。
 
 +量化交易+
 
 - [https://zding.fund/ *正定私募*], 北京, 中国.
-  -- Algorithm Intern (2025.10-2025.12).
+  -- 研究实习生 (2025.10-2025.12).
   -- 设计量化交易中更好的深度学习模型和训练策略。
 
 - [https://www.wizardquant.com/ *宽德投资*], 北京, 中国.
-  -- Algorithm Intern (2025.8.1).
+  -- 研究实习生 (2025.8.1).
   -- 设计量化交易中更好的机器学习模型。
 
 
