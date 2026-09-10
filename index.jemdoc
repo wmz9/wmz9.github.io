@@ -61,14 +61,23 @@ Training*)
 
 == Recent Publications and Preprints
 
-\* indicates equal contribution, † means project lead.
 
+\* indicates equal contribution, † means project lead.
+- \[25\] [https://arxiv.org/abs/2608.28442 *Curvature-Conditioned Multiscale Momentum with Sphere Constraints for LLM Pretraining*] \n
+Shuchen Zhu, Yuxin Fang, {{<font color=sienna size=+0.5><b>}}*Mingze Wang†*{{</b></font>}}, Kun Yuan. \n
+arXiv preprint, 1-50. Aug 2026.
+- \[24\] [https://arxiv.org/abs/2608.21752 *Width-Independent Compressibility of Deep Neural Networks*] \n
+Hongyi Wang, {{<font color=sienna size=+0.5><b>}}*Mingze Wang*{{</b></font>}}, Liu Ziyin. \n
+arXiv preprint, 1-28. Aug 2026.
+- \[23\] [https://arxiv.org/abs/2608.12385 *Dual-Flow Transformers: Decoupling the Primary Prefill Path from Additional Decode Computation*] \n
+Liming Liu, {{<font color=sienna size=+0.5><b>}}*Mingze Wang*{{</b></font>}}, Tuo Zhao. \n
+arXiv preprint, 1-19. Aug 2026.
 - \[22\] [http://arxiv.org/abs/2605.26895 *Negligible in Size, Significant in Effect: On Scale Vectors in Large Language Models*] \n
-\ {{<font color=sienna size=+0.5><b>}}*Mingze Wang†*{{</b></font>}}, Shuchen Zhu, Yuxin Fang, Binghui Li, Kai Shen, Shu Zhong. \n
-under review, 1-36. May 2026.
+\ {{<font color=sienna size=+0.5><b>}}*Mingze Wang\*†*{{</b></font>}}, Shuchen Zhu\*, Yuxin Fang, Binghui Li, Kai Shen, Shu Zhong. \n
+under review, arXiv preprint, 1-36. May 2026.
 - \[21\] [http://arxiv.org/abs/2605.26647 *More Expressive Feedforward Layers: Part I. Token-Adaptive Mixing of Activations*] \n
-\ {{<font color=sienna size=+0.5><b>}}*Mingze Wang†*{{</b></font>}}, Jinbo Wang, Yikuan Xia, Kai Shen, Shu Zhong. \n
-under review, 1-31. May 2026.
+\ {{<font color=sienna size=+0.5><b>}}*Mingze Wang\*†*{{</b></font>}}, Jinbo Wang\*, Yikuan Xia, Kai Shen, Shu Zhong. \n
+under review, arXiv preprint, 1-31. May 2026.
 - \[20\] [https://arxiv.org/abs/2602.22681 *Accelerating LLM Pre-training through Flat-Direction Dynamics Enhancement*] \n
 Shuchen Zhu, Rizhen Hu, {{<font color=sienna size=+0.5><b>}}*Mingze Wang†*{{</b></font>}}, Mou Sun, Xue Wang, Kun Yuan, Zaiwen Wen. \n
 under review, arXiv preprint, 1-43. Feb 2026.
@@ -116,7 +125,7 @@ Guanhua Huang, Yuchen Zhang, Zhe Li, Yongjian You, {{<font color=sienna size=+0.
 +2024 International Conference on Machine Learning+ ({{<font color=purple size=+0.5><b>}}*ICML 2024*{{</b></font>}}), 1-38.
 - \[5\] [https://arxiv.org/abs/2310.00692 *A Theoretical Analysis of Noise Geometry in Stochastic Gradient Descent*] \n
 \ {{<font color=sienna size=+0.5><b>}}*Mingze Wang*{{</b></font>}}, Lei Wu\n
-+NeurIPS 2023 Workshop on Mathematics of Modern Machine Learning+ ({{<font color=purple size=+0.5><b>}}*NeurIPS 2023 - M3L*{{</b></font>}}), 1-30.
++Transactions on Machine Learning Research+ ({{<font color=purple size=+0.5><b>}}*TMLR*{{</b></font>}}), 1-30.
 - \[4\] [https://arxiv.org/abs/2305.12467 *Understanding Multi-phase Optimization Dynamics and Rich Nonlinear Behaviors of ReLU Networks*] \n
 \ {{<font color=sienna size=+0.5><b>}}*Mingze Wang†*{{</b></font>}}, Chao Ma\n
 +2023 Conference on Neural Information Processing Systems+ ({{<font color=purple size=+0.5><b>}}*NeurIPS 2023*{{</b></font>}}) ({{<font color=red size=+0.5><b>}}Spotlight, top 3.5%{{</b></font>}}), 1-94.

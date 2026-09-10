@@ -68,6 +68,15 @@
 
 \* 表示平等贡献，† 表示主导项目.
 
+- \[25\] [https://arxiv.org/abs/2608.28442 *Curvature-Conditioned Multiscale Momentum with Sphere Constraints for LLM Pretraining*] \n
+Shuchen Zhu (朱书辰), Yuxin Fang (方羽新), {{<font color=sienna size=+0.5><b>}}*Mingze Wang†*{{</b></font>}} (王铭泽), Kun Yuan (袁坤). \n
+arXiv preprint, 1-50. Aug 2026.
+- \[24\] [https://arxiv.org/abs/2608.21752 *Width-Independent Compressibility of Deep Neural Networks*] \n
+Hongyi Wang, {{<font color=sienna size=+0.5><b>}}*Mingze Wang*{{</b></font>}} (王铭泽), Liu Ziyin (刘子寅). \n
+arXiv preprint, 1-28. Aug 2026.
+- \[23\] [https://arxiv.org/abs/2608.12385 *Dual-Flow Transformers: Decoupling the Primary Prefill Path from Additional Decode Computation*] \n
+Liming Liu (刘力铭), {{<font color=sienna size=+0.5><b>}}*Mingze Wang*{{</b></font>}} (王铭泽), Tuo Zhao (赵拓). \n
+arXiv preprint, 1-19. Aug 2026.
 - \[22\] [http://arxiv.org/abs/2605.26895 *Negligible in Size, Significant in Effect: On Scale Vectors in Large Language Models*] \n
 \ {{<font color=sienna size=+0.5><b>}}*Mingze Wang†*{{</b></font>}} (王铭泽), Shuchen Zhu (朱书辰), Yuxin Fang (方羽新),  Binghui Li (李柄辉), Kai Shen (沈锴), Shu Zhong (钟书). \n
 under review, 1-36. May 2026.
